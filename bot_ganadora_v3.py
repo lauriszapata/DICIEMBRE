@@ -43,10 +43,12 @@ API_SECRET = "wiy9JdBSKqCDja0pFXdvSxvJ2VsApzyQmCPDolLR9Dkk2M9LitkDWBh8Hh3fWfHR"
 # ⚙️ CONFIGURACIÓN SEGÚN ARCHIVO GANADOR
 # =============================================================================
 CONFIG = {
-    # === CAPITAL ===
-    'MARGIN_USD': 100,              # $100 margen (nocional $1000 con 10x)
-    'LEVERAGE': 20,                 # 20x (igual que backtest)
-    'MAX_OPEN_POSITIONS': 3,        # 3 posiciones simultáneas
+    # === CAPITAL - CONFIGURACIÓN AGRESIVA 1 PHASE ===
+    # Objetivo: Pasar 1 PHASE ($5,000) en 5 días
+    # Exposure: $290 × 15x = $4,350
+    'MARGIN_USD': 290,              # $290 margen (AGRESIVO)
+    'LEVERAGE': 15,                 # 15x leverage
+    'MAX_OPEN_POSITIONS': 1,        # 1 posición para control de riesgo
     
     # === TIMEFRAME ===
     'TIMEFRAME': '1h',              # VELAS DE 1 HORA
