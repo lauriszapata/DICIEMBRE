@@ -1,0 +1,1614 @@
+2025-12-01 09:53:00 | INFO | ============================================================
+2025-12-01 09:53:00 | INFO | 🚀 BOT GANADORA - BINANCE FUTURES
+2025-12-01 09:53:00 | INFO | ============================================================
+2025-12-01 09:53:00 | INFO | 💰 Margen por trade: $100
+2025-12-01 09:53:00 | INFO | 📊 Apalancamiento: 10x
+2025-12-01 09:53:00 | INFO | 🎯 SL: 1.5x ATR | TP: 3.0x ATR
+2025-12-01 09:53:00 | INFO | 📈 Símbolos: 10
+2025-12-01 09:53:00 | INFO | ⏱️ Timeframe: 1h
+2025-12-01 09:53:00 | INFO | ============================================================
+2025-12-01 09:53:00 | INFO | 🟢 Bot iniciado - Buscando señales...
+2025-12-01 09:53:04 | INFO | 🔍 Escaneando 10 símbolos...
+2025-12-01 09:53:15 | INFO | ⏳ Esperando 60s para próximo escaneo...
+2025-12-01 09:54:15 | INFO | 🔍 Escaneando 10 símbolos...
+2025-12-01 09:54:28 | INFO | ⏳ Esperando 60s para próximo escaneo...
+2025-12-01 09:55:29 | INFO | 🔍 Escaneando 10 símbolos...
+2025-12-01 09:55:43 | INFO | ⏳ Esperando 60s para próximo escaneo...
+2025-12-01 09:55:49 | INFO | 🔴 Bot detenido por el usuario
+2025-12-01 10:07:36 | INFO     | ======================================================================
+2025-12-01 10:07:36 | INFO     | 🚀 INICIANDO BOT GANADORA - BINANCE FUTURES
+2025-12-01 10:07:36 | INFO     | ======================================================================
+2025-12-01 10:07:36 | INFO     | 🔑 Configurando conexión con Binance Futures...
+2025-12-01 10:07:36 | INFO     | 📡 Cargando información de mercados...
+2025-12-01 10:07:41 | INFO     | 🔄 Verificando conexión y balance...
+2025-12-01 10:07:41 | INFO     | 💰 Balance USDT: $690.90 disponible / $690.90 total
+2025-12-01 10:07:41 | INFO     | ⚙️ Configurando modo de posición...
+2025-12-01 10:07:41 | WARNING  |    ⚠️ No se pudo cambiar modo de posición (puede que ya esté configurado): binance {"code":-4059,"msg":"No need to change position side."}
+2025-12-01 10:07:41 | INFO     | 
+2025-12-01 10:07:41 | INFO     | 📋 CONFIGURACIÓN ACTIVA:
+2025-12-01 10:07:41 | INFO     |    💵 Margen por trade: $100
+2025-12-01 10:07:41 | INFO     |    📊 Apalancamiento: 10x
+2025-12-01 10:07:41 | INFO     |    📈 Exposición por trade: $1000
+2025-12-01 10:07:41 | INFO     |    🎯 Máx posiciones simultáneas: 3
+2025-12-01 10:07:41 | INFO     |    ⏱️ Timeframe: 1h
+2025-12-01 10:07:41 | INFO     |    🛑 Stop Loss: 1.5x ATR
+2025-12-01 10:07:41 | INFO     |    🎯 Take Profit: 3.0x ATR
+2025-12-01 10:07:41 | INFO     |    📊 Símbolos: DOGE/USDT, OP/USDT, ATOM/USDT, FIL/USDT, ADA/USDT, TRX/USDT, DOT/USDT, LINK/USDT, ARB/USDT, APT/USDT
+2025-12-01 10:07:41 | INFO     | ======================================================================
+2025-12-01 10:07:41 | INFO     | 
+2025-12-01 10:07:41 | INFO     | 🟢 BOT INICIADO - Comenzando operaciones...
+2025-12-01 10:07:41 | INFO     |    Intervalo de escaneo: 60 segundos
+2025-12-01 10:07:41 | INFO     | 
+2025-12-01 10:07:41 | INFO     | 
+2025-12-01 10:07:41 | INFO     | ══════════════════════════════════════════════════════════════════════
+2025-12-01 10:07:41 | INFO     | 🔄 CICLO #1 | 2025-12-01 10:07:41
+2025-12-01 10:07:41 | INFO     | ══════════════════════════════════════════════════════════════════════
+2025-12-01 10:07:41 | DEBUG    | 📊 Consultando posiciones abiertas...
+2025-12-01 10:07:42 | DEBUG    |    Sin posiciones abiertas
+2025-12-01 10:07:42 | INFO     | 
+2025-12-01 10:07:42 | INFO     | 🎰 Slots disponibles: 3
+2025-12-01 10:07:42 | DEBUG    | 💰 Balance disponible: $690.90
+2025-12-01 10:07:42 | INFO     | 
+2025-12-01 10:07:42 | INFO     | 🔍 ESCANEANDO 10 SÍMBOLOS...
+2025-12-01 10:07:42 | INFO     | 
+2025-12-01 10:07:42 | DEBUG    | 📥 Descargando 100 velas 1h de DOGE/USDT...
+2025-12-01 10:07:43 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:07:43 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:07:43 | DEBUG    | 📊 ANALIZANDO DOGE/USDT
+2025-12-01 10:07:43 | DEBUG    |    Precio: $0.1348
+2025-12-01 10:07:43 | DEBUG    |    Spread: 0.0074%
+2025-12-01 10:07:43 | DEBUG    |    ✓ Spread OK: 0.0074%
+2025-12-01 10:07:43 | DEBUG    |    ✓ ATR%: 0.9368%
+2025-12-01 10:07:43 | DEBUG    |    ✓ ADX: 53.33
+2025-12-01 10:07:43 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:07:43 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:07:43 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:07:43 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:07:43 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:07:43 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:07:43 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:43 | DEBUG    |       ✗ ema_extension_ok: False
+2025-12-01 10:07:43 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:07:43 | DEBUG    |          └─ Razón HL: Vela izquierda (0.1342) no es mayor que pivot (0.1347)
+2025-12-01 10:07:43 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:07:43 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:07:43 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:07:43 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:07:43 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:07:43 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:07:43 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:43 | DEBUG    |       ✗ ema_extension_ok: False
+2025-12-01 10:07:43 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:07:43 | DEBUG    |          └─ Razón LH: Vela izquierda (0.1370) no es menor que pivot (0.1368)
+2025-12-01 10:07:43 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:07:43 | DEBUG    | 📥 Descargando 100 velas 1h de OP/USDT...
+2025-12-01 10:07:43 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:07:44 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:07:44 | DEBUG    | 📊 ANALIZANDO OP/USDT
+2025-12-01 10:07:44 | DEBUG    |    Precio: $0.2874
+2025-12-01 10:07:44 | DEBUG    |    Spread: 0.0348%
+2025-12-01 10:07:44 | DEBUG    |    ✓ Spread OK: 0.0348%
+2025-12-01 10:07:44 | DEBUG    |    ✓ ATR%: 1.3371%
+2025-12-01 10:07:44 | DEBUG    |    ✓ ADX: 42.97
+2025-12-01 10:07:44 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:07:44 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:07:44 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:07:44 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:07:44 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:07:44 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:07:44 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:44 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:44 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:07:44 | DEBUG    |          └─ Razón HL: Vela izquierda (0.2845) no es mayor que pivot (0.2879)
+2025-12-01 10:07:44 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:07:44 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:07:44 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:07:44 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:07:44 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:07:44 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:07:44 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:44 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:44 | DEBUG    |       ✓ lower_high: True
+2025-12-01 10:07:44 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:07:44 | DEBUG    | 📥 Descargando 100 velas 1h de ATOM/USDT...
+2025-12-01 10:07:44 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:07:44 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:07:44 | DEBUG    | 📊 ANALIZANDO ATOM/USDT
+2025-12-01 10:07:44 | DEBUG    |    Precio: $2.2300
+2025-12-01 10:07:44 | DEBUG    |    Spread: 0.0449%
+2025-12-01 10:07:44 | DEBUG    |    ✓ Spread OK: 0.0449%
+2025-12-01 10:07:44 | DEBUG    |    ✓ ATR%: 1.0634%
+2025-12-01 10:07:44 | DEBUG    |    ✓ ADX: 38.76
+2025-12-01 10:07:44 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:07:44 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:07:44 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:07:44 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:07:44 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:07:44 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:07:44 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:44 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:44 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:07:44 | DEBUG    |          └─ Razón HL: Vela izquierda (2.2170) no es mayor que pivot (2.2270)
+2025-12-01 10:07:44 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:07:44 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:07:44 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:07:44 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:07:44 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:07:44 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:07:44 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:44 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:44 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:07:44 | DEBUG    |          └─ Razón LH: Vela izquierda (2.2590) no es menor que pivot (2.2590)
+2025-12-01 10:07:44 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:07:45 | DEBUG    | 📥 Descargando 100 velas 1h de FIL/USDT...
+2025-12-01 10:07:45 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:07:45 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:07:45 | DEBUG    | 📊 ANALIZANDO FIL/USDT
+2025-12-01 10:07:45 | DEBUG    |    Precio: $1.4660
+2025-12-01 10:07:45 | DEBUG    |    Spread: 0.0683%
+2025-12-01 10:07:45 | DEBUG    |    ✓ Spread OK: 0.0683%
+2025-12-01 10:07:45 | DEBUG    |    ✓ ATR%: 1.2278%
+2025-12-01 10:07:45 | DEBUG    |    ✓ ADX: 51.44
+2025-12-01 10:07:45 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:07:45 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:07:45 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:07:45 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:07:45 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:07:45 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:07:45 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:45 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:45 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:07:45 | DEBUG    |          └─ Razón HL: Vela izquierda (1.4270) no es mayor que pivot (1.4480)
+2025-12-01 10:07:45 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:07:45 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:07:45 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:07:45 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:07:45 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:07:45 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:07:45 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:45 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:45 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:07:45 | DEBUG    |          └─ Razón LH: Vela derecha (1.4760) no es menor que pivot (1.4670)
+2025-12-01 10:07:45 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:07:45 | DEBUG    | 📥 Descargando 100 velas 1h de ADA/USDT...
+2025-12-01 10:07:46 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:07:46 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:07:46 | DEBUG    | 📊 ANALIZANDO ADA/USDT
+2025-12-01 10:07:46 | DEBUG    |    Precio: $0.3796
+2025-12-01 10:07:46 | DEBUG    |    Spread: 0.0264%
+2025-12-01 10:07:46 | DEBUG    |    ✓ Spread OK: 0.0264%
+2025-12-01 10:07:46 | DEBUG    |    ✓ ATR%: 1.2626%
+2025-12-01 10:07:46 | DEBUG    |    ✓ ADX: 50.90
+2025-12-01 10:07:46 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:07:46 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:07:46 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:07:46 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:07:46 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:07:46 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:07:46 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:46 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:46 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:07:46 | DEBUG    |          └─ Razón HL: Vela izquierda (0.3734) no es mayor que pivot (0.3768)
+2025-12-01 10:07:46 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:07:46 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:07:46 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:07:46 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:07:46 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:07:46 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:07:46 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:46 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:46 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:07:46 | DEBUG    |          └─ Razón LH: Vela derecha (0.3842) no es menor que pivot (0.3836)
+2025-12-01 10:07:46 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:07:46 | DEBUG    | 📥 Descargando 100 velas 1h de TRX/USDT...
+2025-12-01 10:07:47 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:07:47 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:07:47 | DEBUG    | 📊 ANALIZANDO TRX/USDT
+2025-12-01 10:07:47 | DEBUG    |    Precio: $0.2784
+2025-12-01 10:07:47 | DEBUG    |    Spread: 0.0036%
+2025-12-01 10:07:47 | DEBUG    |    ✓ Spread OK: 0.0036%
+2025-12-01 10:07:47 | DEBUG    |    ✓ ATR%: 0.4562%
+2025-12-01 10:07:47 | DEBUG    |    ✓ ADX: 29.21
+2025-12-01 10:07:47 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:07:47 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:07:47 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:07:47 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:07:47 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:07:47 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:07:47 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:47 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:47 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:07:47 | DEBUG    |          └─ Razón HL: Vela izquierda (0.2763) no es mayor que pivot (0.2768)
+2025-12-01 10:07:47 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:07:47 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:07:47 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:07:47 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:07:47 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:07:47 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:07:47 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:47 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:47 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:07:47 | DEBUG    |          └─ Razón LH: Vela derecha (0.2786) no es menor que pivot (0.2780)
+2025-12-01 10:07:47 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:07:47 | DEBUG    | 📥 Descargando 100 velas 1h de DOT/USDT...
+2025-12-01 10:07:47 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:07:48 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:07:48 | DEBUG    | 📊 ANALIZANDO DOT/USDT
+2025-12-01 10:07:48 | DEBUG    |    Precio: $2.0180
+2025-12-01 10:07:48 | DEBUG    |    Spread: 0.0496%
+2025-12-01 10:07:48 | DEBUG    |    ✓ Spread OK: 0.0496%
+2025-12-01 10:07:48 | DEBUG    |    ✓ ATR%: 1.2318%
+2025-12-01 10:07:48 | DEBUG    |    ✓ ADX: 53.62
+2025-12-01 10:07:48 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:07:48 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:07:48 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:07:48 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:07:48 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:07:48 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:07:48 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:48 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:48 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:07:48 | DEBUG    |          └─ Razón HL: Vela izquierda (1.9950) no es mayor que pivot (2.0160)
+2025-12-01 10:07:48 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:07:48 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:07:48 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:07:48 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:07:48 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:07:48 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:07:48 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:48 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:48 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:07:48 | DEBUG    |          └─ Razón LH: Vela derecha (2.0490) no es menor que pivot (2.0420)
+2025-12-01 10:07:48 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:07:48 | DEBUG    | 📥 Descargando 100 velas 1h de LINK/USDT...
+2025-12-01 10:07:48 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:07:49 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:07:49 | DEBUG    | 📊 ANALIZANDO LINK/USDT
+2025-12-01 10:07:49 | DEBUG    |    Precio: $12.0730
+2025-12-01 10:07:49 | DEBUG    |    Spread: 0.0083%
+2025-12-01 10:07:49 | DEBUG    |    ✓ Spread OK: 0.0083%
+2025-12-01 10:07:49 | DEBUG    |    ✓ ATR%: 1.0543%
+2025-12-01 10:07:49 | DEBUG    |    ✓ ADX: 45.75
+2025-12-01 10:07:49 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:07:49 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:07:49 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:07:49 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:07:49 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:07:49 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:07:49 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:49 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:49 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:07:49 | DEBUG    |          └─ Razón HL: Vela izquierda (11.9240) no es mayor que pivot (12.0070)
+2025-12-01 10:07:49 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:07:49 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:07:49 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:07:49 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:07:49 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:07:49 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:07:49 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:49 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:49 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:07:49 | DEBUG    |          └─ Razón LH: Vela derecha (12.2070) no es menor que pivot (12.2070)
+2025-12-01 10:07:49 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:07:49 | DEBUG    | 📥 Descargando 100 velas 1h de ARB/USDT...
+2025-12-01 10:07:49 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:07:49 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:07:49 | DEBUG    | 📊 ANALIZANDO ARB/USDT
+2025-12-01 10:07:49 | DEBUG    |    Precio: $0.1919
+2025-12-01 10:07:49 | DEBUG    |    Spread: 0.0521%
+2025-12-01 10:07:49 | DEBUG    |    ✓ Spread OK: 0.0521%
+2025-12-01 10:07:49 | DEBUG    |    ✓ ATR%: 1.2060%
+2025-12-01 10:07:49 | DEBUG    |    ✓ ADX: 49.06
+2025-12-01 10:07:49 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:07:49 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:07:49 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:07:49 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:07:49 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:07:49 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:07:49 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:49 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:49 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:07:49 | DEBUG    |          └─ Razón HL: Vela izquierda (0.1905) no es mayor que pivot (0.1911)
+2025-12-01 10:07:49 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:07:49 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:07:49 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:07:49 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:07:49 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:07:49 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:07:49 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:49 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:49 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:07:49 | DEBUG    |          └─ Razón LH: Vela derecha (0.1946) no es menor que pivot (0.1946)
+2025-12-01 10:07:49 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:07:50 | DEBUG    | 📥 Descargando 100 velas 1h de APT/USDT...
+2025-12-01 10:07:50 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:07:50 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:07:50 | DEBUG    | 📊 ANALIZANDO APT/USDT
+2025-12-01 10:07:50 | DEBUG    |    Precio: $1.8437
+2025-12-01 10:07:50 | DEBUG    |    Spread: 0.0054%
+2025-12-01 10:07:50 | DEBUG    |    ✓ Spread OK: 0.0054%
+2025-12-01 10:07:50 | DEBUG    |    ✓ ATR%: 1.2514%
+2025-12-01 10:07:50 | DEBUG    |    ✓ ADX: 49.00
+2025-12-01 10:07:50 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:07:50 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:07:50 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:07:50 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:07:50 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:07:50 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:07:50 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:50 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:50 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:07:50 | DEBUG    |          └─ Razón HL: Vela izquierda (1.8220) no es mayor que pivot (1.8470)
+2025-12-01 10:07:50 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:07:50 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:07:50 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:07:50 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:07:50 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:07:50 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:07:50 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:07:50 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:07:50 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:07:50 | DEBUG    |          └─ Razón LH: Es Higher High: 1.8557 -> 1.8799
+2025-12-01 10:07:50 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:07:50 | INFO     |    ⚪ No se encontraron señales válidas
+2025-12-01 10:07:50 | INFO     | 
+2025-12-01 10:07:50 | INFO     | ⏳ Esperando 60s para próximo ciclo...
+2025-12-01 10:08:50 | INFO     | 
+2025-12-01 10:08:50 | INFO     | ══════════════════════════════════════════════════════════════════════
+2025-12-01 10:08:50 | INFO     | 🔄 CICLO #2 | 2025-12-01 10:08:50
+2025-12-01 10:08:50 | INFO     | ══════════════════════════════════════════════════════════════════════
+2025-12-01 10:08:50 | DEBUG    | 📊 Consultando posiciones abiertas...
+2025-12-01 10:08:51 | DEBUG    |    Sin posiciones abiertas
+2025-12-01 10:08:51 | INFO     | 
+2025-12-01 10:08:51 | INFO     | 🎰 Slots disponibles: 3
+2025-12-01 10:08:51 | DEBUG    | 💰 Balance disponible: $690.90
+2025-12-01 10:08:51 | INFO     | 
+2025-12-01 10:08:51 | INFO     | 🔍 ESCANEANDO 10 SÍMBOLOS...
+2025-12-01 10:08:51 | INFO     | 
+2025-12-01 10:08:51 | DEBUG    | 📥 Descargando 100 velas 1h de DOGE/USDT...
+2025-12-01 10:08:51 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:08:51 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:08:51 | DEBUG    | 📊 ANALIZANDO DOGE/USDT
+2025-12-01 10:08:51 | DEBUG    |    Precio: $0.1348
+2025-12-01 10:08:51 | DEBUG    |    Spread: 0.0074%
+2025-12-01 10:08:51 | DEBUG    |    ✓ Spread OK: 0.0074%
+2025-12-01 10:08:51 | DEBUG    |    ✓ ATR%: 0.9368%
+2025-12-01 10:08:51 | DEBUG    |    ✓ ADX: 53.33
+2025-12-01 10:08:51 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:08:51 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:08:51 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:08:51 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:08:51 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:08:51 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:08:51 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:51 | DEBUG    |       ✗ ema_extension_ok: False
+2025-12-01 10:08:51 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:08:51 | DEBUG    |          └─ Razón HL: Vela izquierda (0.1342) no es mayor que pivot (0.1347)
+2025-12-01 10:08:51 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:08:51 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:08:51 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:08:51 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:08:51 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:08:51 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:08:51 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:51 | DEBUG    |       ✗ ema_extension_ok: False
+2025-12-01 10:08:51 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:08:51 | DEBUG    |          └─ Razón LH: Vela izquierda (0.1370) no es menor que pivot (0.1368)
+2025-12-01 10:08:51 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:08:52 | DEBUG    | 📥 Descargando 100 velas 1h de OP/USDT...
+2025-12-01 10:08:52 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:08:52 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:08:52 | DEBUG    | 📊 ANALIZANDO OP/USDT
+2025-12-01 10:08:52 | DEBUG    |    Precio: $0.2873
+2025-12-01 10:08:52 | DEBUG    |    Spread: 0.0348%
+2025-12-01 10:08:52 | DEBUG    |    ✓ Spread OK: 0.0348%
+2025-12-01 10:08:52 | DEBUG    |    ✓ ATR%: 1.3376%
+2025-12-01 10:08:52 | DEBUG    |    ✓ ADX: 42.97
+2025-12-01 10:08:52 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:08:52 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:08:52 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:08:52 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:08:52 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:08:52 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:08:52 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:52 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:52 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:08:52 | DEBUG    |          └─ Razón HL: Vela izquierda (0.2845) no es mayor que pivot (0.2879)
+2025-12-01 10:08:52 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:08:52 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:08:52 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:08:52 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:08:52 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:08:52 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:08:52 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:52 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:52 | DEBUG    |       ✓ lower_high: True
+2025-12-01 10:08:52 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:08:52 | DEBUG    | 📥 Descargando 100 velas 1h de ATOM/USDT...
+2025-12-01 10:08:52 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:08:53 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:08:53 | DEBUG    | 📊 ANALIZANDO ATOM/USDT
+2025-12-01 10:08:53 | DEBUG    |    Precio: $2.2280
+2025-12-01 10:08:53 | DEBUG    |    Spread: 0.0449%
+2025-12-01 10:08:53 | DEBUG    |    ✓ Spread OK: 0.0449%
+2025-12-01 10:08:53 | DEBUG    |    ✓ ATR%: 1.0644%
+2025-12-01 10:08:53 | DEBUG    |    ✓ ADX: 38.76
+2025-12-01 10:08:53 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:08:53 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:08:53 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:08:53 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:08:53 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:08:53 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:08:53 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:53 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:53 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:08:53 | DEBUG    |          └─ Razón HL: Vela izquierda (2.2170) no es mayor que pivot (2.2270)
+2025-12-01 10:08:53 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:08:53 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:08:53 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:08:53 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:08:53 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:08:53 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:08:53 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:53 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:53 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:08:53 | DEBUG    |          └─ Razón LH: Vela izquierda (2.2590) no es menor que pivot (2.2590)
+2025-12-01 10:08:53 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:08:53 | DEBUG    | 📥 Descargando 100 velas 1h de FIL/USDT...
+2025-12-01 10:08:53 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:08:53 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:08:53 | DEBUG    | 📊 ANALIZANDO FIL/USDT
+2025-12-01 10:08:53 | DEBUG    |    Precio: $1.4660
+2025-12-01 10:08:53 | DEBUG    |    Spread: 0.0683%
+2025-12-01 10:08:53 | DEBUG    |    ✓ Spread OK: 0.0683%
+2025-12-01 10:08:53 | DEBUG    |    ✓ ATR%: 1.2278%
+2025-12-01 10:08:53 | DEBUG    |    ✓ ADX: 51.44
+2025-12-01 10:08:53 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:08:53 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:08:53 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:08:53 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:08:53 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:08:53 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:08:53 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:53 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:53 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:08:53 | DEBUG    |          └─ Razón HL: Vela izquierda (1.4270) no es mayor que pivot (1.4480)
+2025-12-01 10:08:53 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:08:53 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:08:53 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:08:53 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:08:53 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:08:53 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:08:53 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:53 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:53 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:08:53 | DEBUG    |          └─ Razón LH: Vela derecha (1.4760) no es menor que pivot (1.4670)
+2025-12-01 10:08:53 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:08:54 | DEBUG    | 📥 Descargando 100 velas 1h de ADA/USDT...
+2025-12-01 10:08:54 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:08:54 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:08:54 | DEBUG    | 📊 ANALIZANDO ADA/USDT
+2025-12-01 10:08:54 | DEBUG    |    Precio: $0.3798
+2025-12-01 10:08:54 | DEBUG    |    Spread: 0.0263%
+2025-12-01 10:08:54 | DEBUG    |    ✓ Spread OK: 0.0263%
+2025-12-01 10:08:54 | DEBUG    |    ✓ ATR%: 1.2619%
+2025-12-01 10:08:54 | DEBUG    |    ✓ ADX: 50.90
+2025-12-01 10:08:54 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:08:54 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:08:54 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:08:54 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:08:54 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:08:54 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:08:54 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:54 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:54 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:08:54 | DEBUG    |          └─ Razón HL: Vela izquierda (0.3734) no es mayor que pivot (0.3768)
+2025-12-01 10:08:54 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:08:54 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:08:54 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:08:54 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:08:54 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:08:54 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:08:54 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:54 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:54 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:08:54 | DEBUG    |          └─ Razón LH: Vela derecha (0.3842) no es menor que pivot (0.3836)
+2025-12-01 10:08:54 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:08:54 | DEBUG    | 📥 Descargando 100 velas 1h de TRX/USDT...
+2025-12-01 10:08:55 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:08:55 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:08:55 | DEBUG    | 📊 ANALIZANDO TRX/USDT
+2025-12-01 10:08:55 | DEBUG    |    Precio: $0.2784
+2025-12-01 10:08:55 | DEBUG    |    Spread: 0.0036%
+2025-12-01 10:08:55 | DEBUG    |    ✓ Spread OK: 0.0036%
+2025-12-01 10:08:55 | DEBUG    |    ✓ ATR%: 0.4561%
+2025-12-01 10:08:55 | DEBUG    |    ✓ ADX: 29.21
+2025-12-01 10:08:55 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:08:55 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:08:55 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:08:55 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:08:55 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:08:55 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:08:55 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:55 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:55 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:08:55 | DEBUG    |          └─ Razón HL: Vela izquierda (0.2763) no es mayor que pivot (0.2768)
+2025-12-01 10:08:55 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:08:55 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:08:55 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:08:55 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:08:55 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:08:55 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:08:55 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:55 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:55 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:08:55 | DEBUG    |          └─ Razón LH: Vela derecha (0.2786) no es menor que pivot (0.2780)
+2025-12-01 10:08:55 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:08:55 | DEBUG    | 📥 Descargando 100 velas 1h de DOT/USDT...
+2025-12-01 10:08:55 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:08:56 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:08:56 | DEBUG    | 📊 ANALIZANDO DOT/USDT
+2025-12-01 10:08:56 | DEBUG    |    Precio: $2.0200
+2025-12-01 10:08:56 | DEBUG    |    Spread: 0.0495%
+2025-12-01 10:08:56 | DEBUG    |    ✓ Spread OK: 0.0495%
+2025-12-01 10:08:56 | DEBUG    |    ✓ ATR%: 1.2306%
+2025-12-01 10:08:56 | DEBUG    |    ✓ ADX: 53.62
+2025-12-01 10:08:56 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:08:56 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:08:56 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:08:56 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:08:56 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:08:56 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:08:56 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:56 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:56 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:08:56 | DEBUG    |          └─ Razón HL: Vela izquierda (1.9950) no es mayor que pivot (2.0160)
+2025-12-01 10:08:56 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:08:56 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:08:56 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:08:56 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:08:56 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:08:56 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:08:56 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:56 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:56 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:08:56 | DEBUG    |          └─ Razón LH: Vela derecha (2.0490) no es menor que pivot (2.0420)
+2025-12-01 10:08:56 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:08:56 | DEBUG    | 📥 Descargando 100 velas 1h de LINK/USDT...
+2025-12-01 10:08:56 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:08:56 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:08:56 | DEBUG    | 📊 ANALIZANDO LINK/USDT
+2025-12-01 10:08:56 | DEBUG    |    Precio: $12.0790
+2025-12-01 10:08:56 | DEBUG    |    Spread: 0.0083%
+2025-12-01 10:08:56 | DEBUG    |    ✓ Spread OK: 0.0083%
+2025-12-01 10:08:56 | DEBUG    |    ✓ ATR%: 1.0538%
+2025-12-01 10:08:56 | DEBUG    |    ✓ ADX: 45.75
+2025-12-01 10:08:56 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:08:56 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:08:56 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:08:56 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:08:56 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:08:56 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:08:56 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:56 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:56 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:08:56 | DEBUG    |          └─ Razón HL: Vela izquierda (11.9240) no es mayor que pivot (12.0070)
+2025-12-01 10:08:56 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:08:56 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:08:56 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:08:56 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:08:56 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:08:56 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:08:56 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:56 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:56 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:08:56 | DEBUG    |          └─ Razón LH: Vela derecha (12.2070) no es menor que pivot (12.2070)
+2025-12-01 10:08:56 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:08:57 | DEBUG    | 📥 Descargando 100 velas 1h de ARB/USDT...
+2025-12-01 10:08:57 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:08:57 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:08:57 | DEBUG    | 📊 ANALIZANDO ARB/USDT
+2025-12-01 10:08:57 | DEBUG    |    Precio: $0.1919
+2025-12-01 10:08:57 | DEBUG    |    Spread: 0.0521%
+2025-12-01 10:08:57 | DEBUG    |    ✓ Spread OK: 0.0521%
+2025-12-01 10:08:57 | DEBUG    |    ✓ ATR%: 1.2060%
+2025-12-01 10:08:57 | DEBUG    |    ✓ ADX: 49.06
+2025-12-01 10:08:57 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:08:57 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:08:57 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:08:57 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:08:57 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:08:57 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:08:57 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:57 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:57 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:08:57 | DEBUG    |          └─ Razón HL: Vela izquierda (0.1905) no es mayor que pivot (0.1911)
+2025-12-01 10:08:57 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:08:57 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:08:57 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:08:57 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:08:57 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:08:57 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:08:57 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:57 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:57 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:08:57 | DEBUG    |          └─ Razón LH: Vela derecha (0.1946) no es menor que pivot (0.1946)
+2025-12-01 10:08:57 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:08:57 | DEBUG    | 📥 Descargando 100 velas 1h de APT/USDT...
+2025-12-01 10:08:58 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:08:58 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:08:58 | DEBUG    | 📊 ANALIZANDO APT/USDT
+2025-12-01 10:08:58 | DEBUG    |    Precio: $1.8469
+2025-12-01 10:08:58 | DEBUG    |    Spread: 0.0054%
+2025-12-01 10:08:58 | DEBUG    |    ✓ Spread OK: 0.0054%
+2025-12-01 10:08:58 | DEBUG    |    ✓ ATR%: 1.2492%
+2025-12-01 10:08:58 | DEBUG    |    ✓ ADX: 49.00
+2025-12-01 10:08:58 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:08:58 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:08:58 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:08:58 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:08:58 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:08:58 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:08:58 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:58 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:58 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:08:58 | DEBUG    |          └─ Razón HL: Vela izquierda (1.8220) no es mayor que pivot (1.8470)
+2025-12-01 10:08:58 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:08:58 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:08:58 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:08:58 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:08:58 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:08:58 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:08:58 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:08:58 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:08:58 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:08:58 | DEBUG    |          └─ Razón LH: Es Higher High: 1.8557 -> 1.8799
+2025-12-01 10:08:58 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:08:58 | INFO     |    ⚪ No se encontraron señales válidas
+2025-12-01 10:08:58 | INFO     | 
+2025-12-01 10:08:58 | INFO     | ⏳ Esperando 60s para próximo ciclo...
+2025-12-01 10:09:58 | INFO     | 
+2025-12-01 10:09:58 | INFO     | ══════════════════════════════════════════════════════════════════════
+2025-12-01 10:09:58 | INFO     | 🔄 CICLO #3 | 2025-12-01 10:09:58
+2025-12-01 10:09:58 | INFO     | ══════════════════════════════════════════════════════════════════════
+2025-12-01 10:09:58 | DEBUG    | 📊 Consultando posiciones abiertas...
+2025-12-01 10:09:58 | DEBUG    |    Sin posiciones abiertas
+2025-12-01 10:09:58 | INFO     | 
+2025-12-01 10:09:58 | INFO     | 🎰 Slots disponibles: 3
+2025-12-01 10:09:59 | DEBUG    | 💰 Balance disponible: $690.90
+2025-12-01 10:09:59 | INFO     | 
+2025-12-01 10:09:59 | INFO     | 🔍 ESCANEANDO 10 SÍMBOLOS...
+2025-12-01 10:09:59 | INFO     | 
+2025-12-01 10:09:59 | DEBUG    | 📥 Descargando 100 velas 1h de DOGE/USDT...
+2025-12-01 10:09:59 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:09:59 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:09:59 | DEBUG    | 📊 ANALIZANDO DOGE/USDT
+2025-12-01 10:09:59 | DEBUG    |    Precio: $0.1348
+2025-12-01 10:09:59 | DEBUG    |    Spread: 0.0074%
+2025-12-01 10:09:59 | DEBUG    |    ✓ Spread OK: 0.0074%
+2025-12-01 10:09:59 | DEBUG    |    ✓ ATR%: 0.9370%
+2025-12-01 10:09:59 | DEBUG    |    ✓ ADX: 53.33
+2025-12-01 10:09:59 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:09:59 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:09:59 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:09:59 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:09:59 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:09:59 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:09:59 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:09:59 | DEBUG    |       ✗ ema_extension_ok: False
+2025-12-01 10:09:59 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:09:59 | DEBUG    |          └─ Razón HL: Vela izquierda (0.1342) no es mayor que pivot (0.1347)
+2025-12-01 10:09:59 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:09:59 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:09:59 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:09:59 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:09:59 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:09:59 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:09:59 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:09:59 | DEBUG    |       ✗ ema_extension_ok: False
+2025-12-01 10:09:59 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:09:59 | DEBUG    |          └─ Razón LH: Vela izquierda (0.1370) no es menor que pivot (0.1368)
+2025-12-01 10:09:59 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:09:59 | DEBUG    | 📥 Descargando 100 velas 1h de OP/USDT...
+2025-12-01 10:10:00 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:10:00 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:10:00 | DEBUG    | 📊 ANALIZANDO OP/USDT
+2025-12-01 10:10:00 | DEBUG    |    Precio: $0.2873
+2025-12-01 10:10:00 | DEBUG    |    Spread: 0.0348%
+2025-12-01 10:10:00 | DEBUG    |    ✓ Spread OK: 0.0348%
+2025-12-01 10:10:00 | DEBUG    |    ✓ ATR%: 1.3376%
+2025-12-01 10:10:00 | DEBUG    |    ✓ ADX: 42.97
+2025-12-01 10:10:00 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:10:00 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:10:00 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:10:00 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:10:00 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:10:00 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:10:00 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:00 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:00 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:10:00 | DEBUG    |          └─ Razón HL: Vela izquierda (0.2845) no es mayor que pivot (0.2879)
+2025-12-01 10:10:00 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:10:00 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:10:00 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:10:00 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:10:00 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:10:00 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:10:00 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:00 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:00 | DEBUG    |       ✓ lower_high: True
+2025-12-01 10:10:00 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:10:00 | DEBUG    | 📥 Descargando 100 velas 1h de ATOM/USDT...
+2025-12-01 10:10:00 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:10:01 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:10:01 | DEBUG    | 📊 ANALIZANDO ATOM/USDT
+2025-12-01 10:10:01 | DEBUG    |    Precio: $2.2260
+2025-12-01 10:10:01 | DEBUG    |    Spread: 0.0449%
+2025-12-01 10:10:01 | DEBUG    |    ✓ Spread OK: 0.0449%
+2025-12-01 10:10:01 | DEBUG    |    ✓ ATR%: 1.0685%
+2025-12-01 10:10:01 | DEBUG    |    ✓ ADX: 38.78
+2025-12-01 10:10:01 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:10:01 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:10:01 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:10:01 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:10:01 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:10:01 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:10:01 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:01 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:01 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:10:01 | DEBUG    |          └─ Razón HL: Vela izquierda (2.2170) no es mayor que pivot (2.2270)
+2025-12-01 10:10:01 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:10:01 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:10:01 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:10:01 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:10:01 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:10:01 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:10:01 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:01 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:01 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:10:01 | DEBUG    |          └─ Razón LH: Vela izquierda (2.2590) no es menor que pivot (2.2590)
+2025-12-01 10:10:01 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:10:01 | DEBUG    | 📥 Descargando 100 velas 1h de FIL/USDT...
+2025-12-01 10:10:01 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:10:01 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:10:01 | DEBUG    | 📊 ANALIZANDO FIL/USDT
+2025-12-01 10:10:01 | DEBUG    |    Precio: $1.4650
+2025-12-01 10:10:01 | DEBUG    |    Spread: 0.0683%
+2025-12-01 10:10:01 | DEBUG    |    ✓ Spread OK: 0.0683%
+2025-12-01 10:10:01 | DEBUG    |    ✓ ATR%: 1.2287%
+2025-12-01 10:10:01 | DEBUG    |    ✓ ADX: 51.44
+2025-12-01 10:10:01 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:10:01 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:10:01 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:10:01 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:10:01 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:10:01 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:10:01 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:01 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:01 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:10:01 | DEBUG    |          └─ Razón HL: Vela izquierda (1.4270) no es mayor que pivot (1.4480)
+2025-12-01 10:10:01 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:10:01 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:10:01 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:10:01 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:10:01 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:10:01 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:10:01 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:01 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:01 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:10:01 | DEBUG    |          └─ Razón LH: Vela derecha (1.4760) no es menor que pivot (1.4670)
+2025-12-01 10:10:01 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:10:01 | DEBUG    | 📥 Descargando 100 velas 1h de ADA/USDT...
+2025-12-01 10:10:02 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:10:02 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:10:02 | DEBUG    | 📊 ANALIZANDO ADA/USDT
+2025-12-01 10:10:02 | DEBUG    |    Precio: $0.3797
+2025-12-01 10:10:02 | DEBUG    |    Spread: 0.0263%
+2025-12-01 10:10:02 | DEBUG    |    ✓ Spread OK: 0.0263%
+2025-12-01 10:10:02 | DEBUG    |    ✓ ATR%: 1.2623%
+2025-12-01 10:10:02 | DEBUG    |    ✓ ADX: 50.90
+2025-12-01 10:10:02 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:10:02 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:10:02 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:10:02 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:10:02 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:10:02 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:10:02 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:02 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:02 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:10:02 | DEBUG    |          └─ Razón HL: Vela izquierda (0.3734) no es mayor que pivot (0.3768)
+2025-12-01 10:10:02 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:10:02 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:10:02 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:10:02 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:10:02 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:10:02 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:10:02 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:02 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:02 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:10:02 | DEBUG    |          └─ Razón LH: Vela derecha (0.3842) no es menor que pivot (0.3836)
+2025-12-01 10:10:02 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:10:02 | DEBUG    | 📥 Descargando 100 velas 1h de TRX/USDT...
+2025-12-01 10:10:02 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:10:03 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:10:03 | DEBUG    | 📊 ANALIZANDO TRX/USDT
+2025-12-01 10:10:03 | DEBUG    |    Precio: $0.2785
+2025-12-01 10:10:03 | DEBUG    |    Spread: 0.0036%
+2025-12-01 10:10:03 | DEBUG    |    ✓ Spread OK: 0.0036%
+2025-12-01 10:10:03 | DEBUG    |    ✓ ATR%: 0.4560%
+2025-12-01 10:10:03 | DEBUG    |    ✓ ADX: 29.21
+2025-12-01 10:10:03 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:10:03 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:10:03 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:10:03 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:10:03 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:10:03 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:10:03 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:03 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:03 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:10:03 | DEBUG    |          └─ Razón HL: Vela izquierda (0.2763) no es mayor que pivot (0.2768)
+2025-12-01 10:10:03 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:10:03 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:10:03 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:10:03 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:10:03 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:10:03 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:10:03 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:03 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:03 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:10:03 | DEBUG    |          └─ Razón LH: Vela derecha (0.2786) no es menor que pivot (0.2780)
+2025-12-01 10:10:03 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:10:03 | DEBUG    | 📥 Descargando 100 velas 1h de DOT/USDT...
+2025-12-01 10:10:03 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:10:03 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:10:03 | DEBUG    | 📊 ANALIZANDO DOT/USDT
+2025-12-01 10:10:03 | DEBUG    |    Precio: $2.0160
+2025-12-01 10:10:03 | DEBUG    |    Spread: 0.0496%
+2025-12-01 10:10:03 | DEBUG    |    ✓ Spread OK: 0.0496%
+2025-12-01 10:10:03 | DEBUG    |    ✓ ATR%: 1.2330%
+2025-12-01 10:10:03 | DEBUG    |    ✓ ADX: 53.62
+2025-12-01 10:10:03 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:10:03 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:10:03 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:10:03 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:10:03 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:10:03 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:10:03 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:03 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:03 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:10:03 | DEBUG    |          └─ Razón HL: Vela izquierda (1.9950) no es mayor que pivot (2.0160)
+2025-12-01 10:10:03 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:10:03 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:10:03 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:10:03 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:10:03 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:10:03 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:10:03 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:03 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:03 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:10:03 | DEBUG    |          └─ Razón LH: Vela derecha (2.0490) no es menor que pivot (2.0420)
+2025-12-01 10:10:03 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:10:03 | DEBUG    | 📥 Descargando 100 velas 1h de LINK/USDT...
+2025-12-01 10:10:04 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:10:04 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:10:04 | DEBUG    | 📊 ANALIZANDO LINK/USDT
+2025-12-01 10:10:04 | DEBUG    |    Precio: $12.0780
+2025-12-01 10:10:04 | DEBUG    |    Spread: 0.0083%
+2025-12-01 10:10:04 | DEBUG    |    ✓ Spread OK: 0.0083%
+2025-12-01 10:10:04 | DEBUG    |    ✓ ATR%: 1.0539%
+2025-12-01 10:10:04 | DEBUG    |    ✓ ADX: 45.75
+2025-12-01 10:10:04 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:10:04 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:10:04 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:10:04 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:10:04 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:10:04 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:10:04 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:04 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:04 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:10:04 | DEBUG    |          └─ Razón HL: Vela izquierda (11.9240) no es mayor que pivot (12.0070)
+2025-12-01 10:10:04 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:10:04 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:10:04 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:10:04 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:10:04 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:10:04 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:10:04 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:04 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:04 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:10:04 | DEBUG    |          └─ Razón LH: Vela derecha (12.2070) no es menor que pivot (12.2070)
+2025-12-01 10:10:04 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:10:04 | DEBUG    | 📥 Descargando 100 velas 1h de ARB/USDT...
+2025-12-01 10:10:04 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:10:05 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:10:05 | DEBUG    | 📊 ANALIZANDO ARB/USDT
+2025-12-01 10:10:05 | DEBUG    |    Precio: $0.1918
+2025-12-01 10:10:05 | DEBUG    |    Spread: 0.0521%
+2025-12-01 10:10:05 | DEBUG    |    ✓ Spread OK: 0.0521%
+2025-12-01 10:10:05 | DEBUG    |    ✓ ATR%: 1.2066%
+2025-12-01 10:10:05 | DEBUG    |    ✓ ADX: 49.06
+2025-12-01 10:10:05 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:10:05 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:10:05 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:10:05 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:10:05 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:10:05 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:10:05 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:05 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:05 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:10:05 | DEBUG    |          └─ Razón HL: Vela izquierda (0.1905) no es mayor que pivot (0.1911)
+2025-12-01 10:10:05 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:10:05 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:10:05 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:10:05 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:10:05 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:10:05 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:10:05 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:05 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:05 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:10:05 | DEBUG    |          └─ Razón LH: Vela derecha (0.1946) no es menor que pivot (0.1946)
+2025-12-01 10:10:05 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:10:05 | DEBUG    | 📥 Descargando 100 velas 1h de APT/USDT...
+2025-12-01 10:10:05 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:10:05 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:10:05 | DEBUG    | 📊 ANALIZANDO APT/USDT
+2025-12-01 10:10:05 | DEBUG    |    Precio: $1.8449
+2025-12-01 10:10:05 | DEBUG    |    Spread: 0.0054%
+2025-12-01 10:10:05 | DEBUG    |    ✓ Spread OK: 0.0054%
+2025-12-01 10:10:05 | DEBUG    |    ✓ ATR%: 1.2506%
+2025-12-01 10:10:05 | DEBUG    |    ✓ ADX: 49.00
+2025-12-01 10:10:05 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:10:05 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:10:05 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:10:05 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:10:05 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:10:05 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:10:05 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:05 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:05 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:10:05 | DEBUG    |          └─ Razón HL: Vela izquierda (1.8220) no es mayor que pivot (1.8470)
+2025-12-01 10:10:05 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:10:05 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:10:05 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:10:05 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:10:05 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:10:05 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:10:05 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:10:05 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:10:05 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:10:05 | DEBUG    |          └─ Razón LH: Es Higher High: 1.8557 -> 1.8799
+2025-12-01 10:10:05 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:10:06 | INFO     |    ⚪ No se encontraron señales válidas
+2025-12-01 10:10:06 | INFO     | 
+2025-12-01 10:10:06 | INFO     | ⏳ Esperando 60s para próximo ciclo...
+2025-12-01 10:11:06 | INFO     | 
+2025-12-01 10:11:06 | INFO     | ══════════════════════════════════════════════════════════════════════
+2025-12-01 10:11:06 | INFO     | 🔄 CICLO #4 | 2025-12-01 10:11:06
+2025-12-01 10:11:06 | INFO     | ══════════════════════════════════════════════════════════════════════
+2025-12-01 10:11:06 | DEBUG    | 📊 Consultando posiciones abiertas...
+2025-12-01 10:11:06 | DEBUG    |    Sin posiciones abiertas
+2025-12-01 10:11:06 | INFO     | 
+2025-12-01 10:11:06 | INFO     | 🎰 Slots disponibles: 3
+2025-12-01 10:11:06 | DEBUG    | 💰 Balance disponible: $690.90
+2025-12-01 10:11:06 | INFO     | 
+2025-12-01 10:11:06 | INFO     | 🔍 ESCANEANDO 10 SÍMBOLOS...
+2025-12-01 10:11:06 | INFO     | 
+2025-12-01 10:11:06 | DEBUG    | 📥 Descargando 100 velas 1h de DOGE/USDT...
+2025-12-01 10:11:07 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:11:07 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:11:07 | DEBUG    | 📊 ANALIZANDO DOGE/USDT
+2025-12-01 10:11:07 | DEBUG    |    Precio: $0.1349
+2025-12-01 10:11:07 | DEBUG    |    Spread: 0.0074%
+2025-12-01 10:11:07 | DEBUG    |    ✓ Spread OK: 0.0074%
+2025-12-01 10:11:07 | DEBUG    |    ✓ ATR%: 0.9359%
+2025-12-01 10:11:07 | DEBUG    |    ✓ ADX: 53.33
+2025-12-01 10:11:07 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:11:07 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ ema_extension_ok: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:11:07 | DEBUG    |          └─ Razón HL: Vela izquierda (0.1342) no es mayor que pivot (0.1347)
+2025-12-01 10:11:07 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:11:07 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:11:07 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:11:07 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:11:07 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:11:07 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:11:07 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ ema_extension_ok: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:11:07 | DEBUG    |          └─ Razón LH: Vela izquierda (0.1370) no es menor que pivot (0.1368)
+2025-12-01 10:11:07 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:11:07 | DEBUG    | 📥 Descargando 100 velas 1h de OP/USDT...
+2025-12-01 10:11:07 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:11:07 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:11:07 | DEBUG    | 📊 ANALIZANDO OP/USDT
+2025-12-01 10:11:07 | DEBUG    |    Precio: $0.2874
+2025-12-01 10:11:07 | DEBUG    |    Spread: 0.0348%
+2025-12-01 10:11:07 | DEBUG    |    ✓ Spread OK: 0.0348%
+2025-12-01 10:11:07 | DEBUG    |    ✓ ATR%: 1.3371%
+2025-12-01 10:11:07 | DEBUG    |    ✓ ADX: 42.97
+2025-12-01 10:11:07 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:11:07 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:11:07 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:07 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:07 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:11:07 | DEBUG    |          └─ Razón HL: Vela izquierda (0.2845) no es mayor que pivot (0.2879)
+2025-12-01 10:11:07 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:11:07 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:11:07 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:11:07 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:11:07 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:11:07 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:11:07 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:07 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:07 | DEBUG    |       ✓ lower_high: True
+2025-12-01 10:11:07 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:11:08 | DEBUG    | 📥 Descargando 100 velas 1h de ATOM/USDT...
+2025-12-01 10:11:08 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:11:08 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:11:08 | DEBUG    | 📊 ANALIZANDO ATOM/USDT
+2025-12-01 10:11:08 | DEBUG    |    Precio: $2.2260
+2025-12-01 10:11:08 | DEBUG    |    Spread: 0.0449%
+2025-12-01 10:11:08 | DEBUG    |    ✓ Spread OK: 0.0449%
+2025-12-01 10:11:08 | DEBUG    |    ✓ ATR%: 1.0685%
+2025-12-01 10:11:08 | DEBUG    |    ✓ ADX: 38.78
+2025-12-01 10:11:08 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:11:08 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:11:08 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:11:08 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:11:08 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:11:08 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:11:08 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:08 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:08 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:11:08 | DEBUG    |          └─ Razón HL: Vela izquierda (2.2170) no es mayor que pivot (2.2270)
+2025-12-01 10:11:08 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:11:08 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:11:08 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:11:08 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:11:08 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:11:08 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:11:08 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:08 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:08 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:11:08 | DEBUG    |          └─ Razón LH: Vela izquierda (2.2590) no es menor que pivot (2.2590)
+2025-12-01 10:11:08 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:11:08 | DEBUG    | 📥 Descargando 100 velas 1h de FIL/USDT...
+2025-12-01 10:11:09 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:11:09 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:11:09 | DEBUG    | 📊 ANALIZANDO FIL/USDT
+2025-12-01 10:11:09 | DEBUG    |    Precio: $1.4660
+2025-12-01 10:11:09 | DEBUG    |    Spread: 0.0683%
+2025-12-01 10:11:09 | DEBUG    |    ✓ Spread OK: 0.0683%
+2025-12-01 10:11:09 | DEBUG    |    ✓ ATR%: 1.2278%
+2025-12-01 10:11:09 | DEBUG    |    ✓ ADX: 51.44
+2025-12-01 10:11:09 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:11:09 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:11:09 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:11:09 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:11:09 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:11:09 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:11:09 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:09 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:09 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:11:09 | DEBUG    |          └─ Razón HL: Vela izquierda (1.4270) no es mayor que pivot (1.4480)
+2025-12-01 10:11:09 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:11:09 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:11:09 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:11:09 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:11:09 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:11:09 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:11:09 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:09 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:09 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:11:09 | DEBUG    |          └─ Razón LH: Vela derecha (1.4760) no es menor que pivot (1.4670)
+2025-12-01 10:11:09 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:11:09 | DEBUG    | 📥 Descargando 100 velas 1h de ADA/USDT...
+2025-12-01 10:11:09 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:11:10 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:11:10 | DEBUG    | 📊 ANALIZANDO ADA/USDT
+2025-12-01 10:11:10 | DEBUG    |    Precio: $0.3799
+2025-12-01 10:11:10 | DEBUG    |    Spread: 0.0263%
+2025-12-01 10:11:10 | DEBUG    |    ✓ Spread OK: 0.0263%
+2025-12-01 10:11:10 | DEBUG    |    ✓ ATR%: 1.2616%
+2025-12-01 10:11:10 | DEBUG    |    ✓ ADX: 50.90
+2025-12-01 10:11:10 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:11:10 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:11:10 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:11:10 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:11:10 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:11:10 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:11:10 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:10 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:10 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:11:10 | DEBUG    |          └─ Razón HL: Vela izquierda (0.3734) no es mayor que pivot (0.3768)
+2025-12-01 10:11:10 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:11:10 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:11:10 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:11:10 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:11:10 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:11:10 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:11:10 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:10 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:10 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:11:10 | DEBUG    |          └─ Razón LH: Vela derecha (0.3842) no es menor que pivot (0.3836)
+2025-12-01 10:11:10 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:11:10 | DEBUG    | 📥 Descargando 100 velas 1h de TRX/USDT...
+2025-12-01 10:11:10 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:11:11 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:11:11 | DEBUG    | 📊 ANALIZANDO TRX/USDT
+2025-12-01 10:11:11 | DEBUG    |    Precio: $0.2782
+2025-12-01 10:11:11 | DEBUG    |    Spread: 0.0036%
+2025-12-01 10:11:11 | DEBUG    |    ✓ Spread OK: 0.0036%
+2025-12-01 10:11:11 | DEBUG    |    ✓ ATR%: 0.4565%
+2025-12-01 10:11:11 | DEBUG    |    ✓ ADX: 29.21
+2025-12-01 10:11:11 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:11:11 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:11:11 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:11:11 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:11:11 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:11:11 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:11:11 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:11 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:11 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:11:11 | DEBUG    |          └─ Razón HL: Vela izquierda (0.2763) no es mayor que pivot (0.2768)
+2025-12-01 10:11:11 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:11:11 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:11:11 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:11:11 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:11:11 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:11:11 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:11:11 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:11 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:11 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:11:11 | DEBUG    |          └─ Razón LH: Vela derecha (0.2786) no es menor que pivot (0.2780)
+2025-12-01 10:11:11 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:11:11 | DEBUG    | 📥 Descargando 100 velas 1h de DOT/USDT...
+2025-12-01 10:11:11 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:11:11 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:11:11 | DEBUG    | 📊 ANALIZANDO DOT/USDT
+2025-12-01 10:11:11 | DEBUG    |    Precio: $2.0190
+2025-12-01 10:11:11 | DEBUG    |    Spread: 0.0496%
+2025-12-01 10:11:11 | DEBUG    |    ✓ Spread OK: 0.0496%
+2025-12-01 10:11:11 | DEBUG    |    ✓ ATR%: 1.2312%
+2025-12-01 10:11:11 | DEBUG    |    ✓ ADX: 53.62
+2025-12-01 10:11:11 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:11:11 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:11:11 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:11:11 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:11:11 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:11:11 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:11:11 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:11 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:11 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:11:11 | DEBUG    |          └─ Razón HL: Vela izquierda (1.9950) no es mayor que pivot (2.0160)
+2025-12-01 10:11:11 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:11:11 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:11:11 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:11:11 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:11:11 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:11:11 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:11:11 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:11 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:11 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:11:11 | DEBUG    |          └─ Razón LH: Vela derecha (2.0490) no es menor que pivot (2.0420)
+2025-12-01 10:11:11 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:11:11 | DEBUG    | 📥 Descargando 100 velas 1h de LINK/USDT...
+2025-12-01 10:11:12 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:11:12 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:11:12 | DEBUG    | 📊 ANALIZANDO LINK/USDT
+2025-12-01 10:11:12 | DEBUG    |    Precio: $12.0850
+2025-12-01 10:11:12 | DEBUG    |    Spread: 0.0083%
+2025-12-01 10:11:12 | DEBUG    |    ✓ Spread OK: 0.0083%
+2025-12-01 10:11:12 | DEBUG    |    ✓ ATR%: 1.0533%
+2025-12-01 10:11:12 | DEBUG    |    ✓ ADX: 45.75
+2025-12-01 10:11:12 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:11:12 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:11:12 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:11:12 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:11:12 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:11:12 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:11:12 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:12 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:12 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:11:12 | DEBUG    |          └─ Razón HL: Vela izquierda (11.9240) no es mayor que pivot (12.0070)
+2025-12-01 10:11:12 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:11:12 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:11:12 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:11:12 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:11:12 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:11:12 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:11:12 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:12 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:12 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:11:12 | DEBUG    |          └─ Razón LH: Vela derecha (12.2070) no es menor que pivot (12.2070)
+2025-12-01 10:11:12 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:11:12 | DEBUG    | 📥 Descargando 100 velas 1h de ARB/USDT...
+2025-12-01 10:11:12 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:11:13 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:11:13 | DEBUG    | 📊 ANALIZANDO ARB/USDT
+2025-12-01 10:11:13 | DEBUG    |    Precio: $0.1921
+2025-12-01 10:11:13 | DEBUG    |    Spread: 0.0521%
+2025-12-01 10:11:13 | DEBUG    |    ✓ Spread OK: 0.0521%
+2025-12-01 10:11:13 | DEBUG    |    ✓ ATR%: 1.2047%
+2025-12-01 10:11:13 | DEBUG    |    ✓ ADX: 49.06
+2025-12-01 10:11:13 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:11:13 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:11:13 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:11:13 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:11:13 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:11:13 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:11:13 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:13 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:13 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:11:13 | DEBUG    |          └─ Razón HL: Vela izquierda (0.1905) no es mayor que pivot (0.1911)
+2025-12-01 10:11:13 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:11:13 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:11:13 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:11:13 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:11:13 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:11:13 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:11:13 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:13 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:13 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:11:13 | DEBUG    |          └─ Razón LH: Vela derecha (0.1946) no es menor que pivot (0.1946)
+2025-12-01 10:11:13 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:11:13 | DEBUG    | 📥 Descargando 100 velas 1h de APT/USDT...
+2025-12-01 10:11:13 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:11:13 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:11:13 | DEBUG    | 📊 ANALIZANDO APT/USDT
+2025-12-01 10:11:13 | DEBUG    |    Precio: $1.8439
+2025-12-01 10:11:13 | DEBUG    |    Spread: 0.0054%
+2025-12-01 10:11:13 | DEBUG    |    ✓ Spread OK: 0.0054%
+2025-12-01 10:11:13 | DEBUG    |    ✓ ATR%: 1.2512%
+2025-12-01 10:11:13 | DEBUG    |    ✓ ADX: 49.00
+2025-12-01 10:11:13 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:11:13 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:11:13 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:11:13 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:11:13 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:11:13 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:11:13 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:13 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:13 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:11:13 | DEBUG    |          └─ Razón HL: Vela izquierda (1.8220) no es mayor que pivot (1.8470)
+2025-12-01 10:11:13 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:11:13 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:11:13 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:11:13 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:11:13 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:11:13 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:11:13 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:11:13 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:11:13 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:11:13 | DEBUG    |          └─ Razón LH: Es Higher High: 1.8557 -> 1.8799
+2025-12-01 10:11:13 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:11:13 | INFO     |    ⚪ No se encontraron señales válidas
+2025-12-01 10:11:13 | INFO     | 
+2025-12-01 10:11:13 | INFO     | ⏳ Esperando 60s para próximo ciclo...
+2025-12-01 10:12:13 | INFO     | 
+2025-12-01 10:12:13 | INFO     | ══════════════════════════════════════════════════════════════════════
+2025-12-01 10:12:13 | INFO     | 🔄 CICLO #5 | 2025-12-01 10:12:13
+2025-12-01 10:12:13 | INFO     | ══════════════════════════════════════════════════════════════════════
+2025-12-01 10:12:13 | DEBUG    | 📊 Consultando posiciones abiertas...
+2025-12-01 10:12:14 | DEBUG    |    Sin posiciones abiertas
+2025-12-01 10:12:14 | INFO     | 
+2025-12-01 10:12:14 | INFO     | 🎰 Slots disponibles: 3
+2025-12-01 10:12:14 | DEBUG    | 💰 Balance disponible: $690.90
+2025-12-01 10:12:14 | INFO     | 
+2025-12-01 10:12:14 | INFO     | 🔍 ESCANEANDO 10 SÍMBOLOS...
+2025-12-01 10:12:14 | INFO     | 
+2025-12-01 10:12:14 | DEBUG    | 📥 Descargando 100 velas 1h de DOGE/USDT...
+2025-12-01 10:12:14 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:12:14 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:12:14 | DEBUG    | 📊 ANALIZANDO DOGE/USDT
+2025-12-01 10:12:14 | DEBUG    |    Precio: $0.1348
+2025-12-01 10:12:14 | DEBUG    |    Spread: 0.0074%
+2025-12-01 10:12:14 | DEBUG    |    ✓ Spread OK: 0.0074%
+2025-12-01 10:12:14 | DEBUG    |    ✓ ATR%: 0.9372%
+2025-12-01 10:12:14 | DEBUG    |    ✓ ADX: 53.33
+2025-12-01 10:12:14 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:12:14 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:12:14 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:12:14 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:12:14 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:12:14 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:12:14 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:14 | DEBUG    |       ✗ ema_extension_ok: False
+2025-12-01 10:12:14 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:12:14 | DEBUG    |          └─ Razón HL: Vela izquierda (0.1342) no es mayor que pivot (0.1347)
+2025-12-01 10:12:14 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:12:14 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:12:14 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:12:14 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:12:14 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:12:14 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:12:14 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:14 | DEBUG    |       ✗ ema_extension_ok: False
+2025-12-01 10:12:14 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:12:14 | DEBUG    |          └─ Razón LH: Vela izquierda (0.1370) no es menor que pivot (0.1368)
+2025-12-01 10:12:14 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:12:15 | DEBUG    | 📥 Descargando 100 velas 1h de OP/USDT...
+2025-12-01 10:12:15 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:12:15 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:12:15 | DEBUG    | 📊 ANALIZANDO OP/USDT
+2025-12-01 10:12:15 | DEBUG    |    Precio: $0.2872
+2025-12-01 10:12:15 | DEBUG    |    Spread: 0.0348%
+2025-12-01 10:12:15 | DEBUG    |    ✓ Spread OK: 0.0348%
+2025-12-01 10:12:15 | DEBUG    |    ✓ ATR%: 1.3380%
+2025-12-01 10:12:15 | DEBUG    |    ✓ ADX: 42.97
+2025-12-01 10:12:15 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:12:15 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:12:15 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:12:15 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:12:15 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:12:15 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:12:15 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:15 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:15 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:12:15 | DEBUG    |          └─ Razón HL: Vela izquierda (0.2845) no es mayor que pivot (0.2879)
+2025-12-01 10:12:15 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:12:15 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:12:15 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:12:15 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:12:15 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:12:15 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:12:15 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:15 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:15 | DEBUG    |       ✓ lower_high: True
+2025-12-01 10:12:15 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:12:15 | DEBUG    | 📥 Descargando 100 velas 1h de ATOM/USDT...
+2025-12-01 10:12:16 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:12:16 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:12:16 | DEBUG    | 📊 ANALIZANDO ATOM/USDT
+2025-12-01 10:12:16 | DEBUG    |    Precio: $2.2230
+2025-12-01 10:12:16 | DEBUG    |    Spread: 0.0450%
+2025-12-01 10:12:16 | DEBUG    |    ✓ Spread OK: 0.0450%
+2025-12-01 10:12:16 | DEBUG    |    ✓ ATR%: 1.0796%
+2025-12-01 10:12:16 | DEBUG    |    ✓ ADX: 38.84
+2025-12-01 10:12:16 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:12:16 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:12:16 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:12:16 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:12:16 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:12:16 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:12:16 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:16 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:16 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:12:16 | DEBUG    |          └─ Razón HL: Vela izquierda (2.2170) no es mayor que pivot (2.2270)
+2025-12-01 10:12:16 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:12:16 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:12:16 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:12:16 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:12:16 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:12:16 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:12:16 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:16 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:16 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:12:16 | DEBUG    |          └─ Razón LH: Vela izquierda (2.2590) no es menor que pivot (2.2590)
+2025-12-01 10:12:16 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:12:16 | DEBUG    | 📥 Descargando 100 velas 1h de FIL/USDT...
+2025-12-01 10:12:16 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:12:17 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:12:17 | DEBUG    | 📊 ANALIZANDO FIL/USDT
+2025-12-01 10:12:17 | DEBUG    |    Precio: $1.4620
+2025-12-01 10:12:17 | DEBUG    |    Spread: 0.0684%
+2025-12-01 10:12:17 | DEBUG    |    ✓ Spread OK: 0.0684%
+2025-12-01 10:12:17 | DEBUG    |    ✓ ATR%: 1.2361%
+2025-12-01 10:12:17 | DEBUG    |    ✓ ADX: 51.44
+2025-12-01 10:12:17 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:12:17 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:12:17 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:12:17 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:12:17 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:12:17 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:12:17 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:17 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:17 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:12:17 | DEBUG    |          └─ Razón HL: Vela izquierda (1.4270) no es mayor que pivot (1.4480)
+2025-12-01 10:12:17 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:12:17 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:12:17 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:12:17 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:12:17 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:12:17 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:12:17 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:17 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:17 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:12:17 | DEBUG    |          └─ Razón LH: Vela derecha (1.4760) no es menor que pivot (1.4670)
+2025-12-01 10:12:17 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:12:17 | DEBUG    | 📥 Descargando 100 velas 1h de ADA/USDT...
+2025-12-01 10:12:17 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:12:17 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:12:17 | DEBUG    | 📊 ANALIZANDO ADA/USDT
+2025-12-01 10:12:17 | DEBUG    |    Precio: $0.3795
+2025-12-01 10:12:17 | DEBUG    |    Spread: 0.0264%
+2025-12-01 10:12:17 | DEBUG    |    ✓ Spread OK: 0.0264%
+2025-12-01 10:12:17 | DEBUG    |    ✓ ATR%: 1.2629%
+2025-12-01 10:12:17 | DEBUG    |    ✓ ADX: 50.90
+2025-12-01 10:12:17 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:12:17 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:12:17 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:12:17 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:12:17 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:12:17 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:12:17 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:17 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:17 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:12:17 | DEBUG    |          └─ Razón HL: Vela izquierda (0.3734) no es mayor que pivot (0.3768)
+2025-12-01 10:12:17 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:12:17 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:12:17 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:12:17 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:12:17 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:12:17 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:12:17 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:17 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:17 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:12:17 | DEBUG    |          └─ Razón LH: Vela derecha (0.3842) no es menor que pivot (0.3836)
+2025-12-01 10:12:17 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:12:18 | DEBUG    | 📥 Descargando 100 velas 1h de TRX/USDT...
+2025-12-01 10:12:18 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:12:18 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:12:18 | DEBUG    | 📊 ANALIZANDO TRX/USDT
+2025-12-01 10:12:18 | DEBUG    |    Precio: $0.2782
+2025-12-01 10:12:18 | DEBUG    |    Spread: 0.0036%
+2025-12-01 10:12:18 | DEBUG    |    ✓ Spread OK: 0.0036%
+2025-12-01 10:12:18 | DEBUG    |    ✓ ATR%: 0.4571%
+2025-12-01 10:12:18 | DEBUG    |    ✓ ADX: 29.21
+2025-12-01 10:12:18 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:12:18 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:12:18 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:12:18 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:12:18 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:12:18 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:12:18 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:18 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:18 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:12:18 | DEBUG    |          └─ Razón HL: Vela izquierda (0.2763) no es mayor que pivot (0.2768)
+2025-12-01 10:12:18 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:12:18 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:12:18 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:12:18 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:12:18 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:12:18 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:12:18 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:18 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:18 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:12:18 | DEBUG    |          └─ Razón LH: Vela derecha (0.2786) no es menor que pivot (0.2780)
+2025-12-01 10:12:18 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:12:18 | DEBUG    | 📥 Descargando 100 velas 1h de DOT/USDT...
+2025-12-01 10:12:18 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:12:19 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:12:19 | DEBUG    | 📊 ANALIZANDO DOT/USDT
+2025-12-01 10:12:19 | DEBUG    |    Precio: $2.0170
+2025-12-01 10:12:19 | DEBUG    |    Spread: 0.0496%
+2025-12-01 10:12:19 | DEBUG    |    ✓ Spread OK: 0.0496%
+2025-12-01 10:12:19 | DEBUG    |    ✓ ATR%: 1.2324%
+2025-12-01 10:12:19 | DEBUG    |    ✓ ADX: 53.62
+2025-12-01 10:12:19 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:12:19 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:12:19 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:12:19 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:12:19 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:12:19 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:12:19 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:19 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:19 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:12:19 | DEBUG    |          └─ Razón HL: Vela izquierda (1.9950) no es mayor que pivot (2.0160)
+2025-12-01 10:12:19 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:12:19 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:12:19 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:12:19 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:12:19 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:12:19 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:12:19 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:19 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:19 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:12:19 | DEBUG    |          └─ Razón LH: Vela derecha (2.0490) no es menor que pivot (2.0420)
+2025-12-01 10:12:19 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:12:19 | DEBUG    | 📥 Descargando 100 velas 1h de LINK/USDT...
+2025-12-01 10:12:19 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:12:19 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:12:19 | DEBUG    | 📊 ANALIZANDO LINK/USDT
+2025-12-01 10:12:19 | DEBUG    |    Precio: $12.0730
+2025-12-01 10:12:19 | DEBUG    |    Spread: 0.0083%
+2025-12-01 10:12:19 | DEBUG    |    ✓ Spread OK: 0.0083%
+2025-12-01 10:12:19 | DEBUG    |    ✓ ATR%: 1.0543%
+2025-12-01 10:12:19 | DEBUG    |    ✓ ADX: 45.75
+2025-12-01 10:12:19 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:12:19 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:12:19 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:12:19 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:12:19 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:12:19 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:12:19 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:19 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:19 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:12:19 | DEBUG    |          └─ Razón HL: Vela izquierda (11.9240) no es mayor que pivot (12.0070)
+2025-12-01 10:12:19 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:12:19 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:12:19 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:12:19 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:12:19 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:12:19 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:12:19 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:19 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:19 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:12:19 | DEBUG    |          └─ Razón LH: Vela derecha (12.2070) no es menor que pivot (12.2070)
+2025-12-01 10:12:19 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:12:20 | DEBUG    | 📥 Descargando 100 velas 1h de ARB/USDT...
+2025-12-01 10:12:20 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:12:20 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:12:20 | DEBUG    | 📊 ANALIZANDO ARB/USDT
+2025-12-01 10:12:20 | DEBUG    |    Precio: $0.1920
+2025-12-01 10:12:20 | DEBUG    |    Spread: 0.0521%
+2025-12-01 10:12:20 | DEBUG    |    ✓ Spread OK: 0.0521%
+2025-12-01 10:12:20 | DEBUG    |    ✓ ATR%: 1.2054%
+2025-12-01 10:12:20 | DEBUG    |    ✓ ADX: 49.06
+2025-12-01 10:12:20 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:12:20 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:12:20 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:12:20 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:12:20 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:12:20 | DEBUG    |       ✗ macd_hist_positive: False
+2025-12-01 10:12:20 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:20 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:20 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:12:20 | DEBUG    |          └─ Razón HL: Vela izquierda (0.1905) no es mayor que pivot (0.1911)
+2025-12-01 10:12:20 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:12:20 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:12:20 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:12:20 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:12:20 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:12:20 | DEBUG    |       ✓ macd_hist_negative: True
+2025-12-01 10:12:20 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:20 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:20 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:12:20 | DEBUG    |          └─ Razón LH: Vela derecha (0.1946) no es menor que pivot (0.1946)
+2025-12-01 10:12:20 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:12:20 | DEBUG    | 📥 Descargando 100 velas 1h de APT/USDT...
+2025-12-01 10:12:20 | DEBUG    |    ✓ 100 velas descargadas | Última: 2025-12-01 15:00:00
+2025-12-01 10:12:21 | DEBUG    | ────────────────────────────────────────────────────────────
+2025-12-01 10:12:21 | DEBUG    | 📊 ANALIZANDO APT/USDT
+2025-12-01 10:12:21 | DEBUG    |    Precio: $1.8431
+2025-12-01 10:12:21 | DEBUG    |    Spread: 0.0054%
+2025-12-01 10:12:21 | DEBUG    |    ✓ Spread OK: 0.0054%
+2025-12-01 10:12:21 | DEBUG    |    ✓ ATR%: 1.2518%
+2025-12-01 10:12:21 | DEBUG    |    ✓ ADX: 49.00
+2025-12-01 10:12:21 | DEBUG    |    📈 LONG checks:
+2025-12-01 10:12:21 | DEBUG    |       ✗ ema8_gt_ema21: False
+2025-12-01 10:12:21 | DEBUG    |       ✗ close_gt_ema50: False
+2025-12-01 10:12:21 | DEBUG    |       ✗ ema20_gt_ema50: False
+2025-12-01 10:12:21 | DEBUG    |       ✗ rsi_gt_55: False
+2025-12-01 10:12:21 | DEBUG    |       ✓ macd_hist_positive: True
+2025-12-01 10:12:21 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:21 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:21 | DEBUG    |       ✗ higher_low: False
+2025-12-01 10:12:21 | DEBUG    |          └─ Razón HL: Vela izquierda (1.8220) no es mayor que pivot (1.8470)
+2025-12-01 10:12:21 | DEBUG    |    📉 SHORT checks:
+2025-12-01 10:12:21 | DEBUG    |       ✓ ema8_lt_ema21: True
+2025-12-01 10:12:21 | DEBUG    |       ✓ close_lt_ema50: True
+2025-12-01 10:12:21 | DEBUG    |       ✓ ema20_lt_ema50: True
+2025-12-01 10:12:21 | DEBUG    |       ✓ rsi_lt_70: True
+2025-12-01 10:12:21 | DEBUG    |       ✗ macd_hist_negative: False
+2025-12-01 10:12:21 | DEBUG    |       ✗ volume_high: False
+2025-12-01 10:12:21 | DEBUG    |       ✓ ema_extension_ok: True
+2025-12-01 10:12:21 | DEBUG    |       ✗ lower_high: False
+2025-12-01 10:12:21 | DEBUG    |          └─ Razón LH: Es Higher High: 1.8557 -> 1.8799
+2025-12-01 10:12:21 | DEBUG    |    ⚪ Sin señal válida
+2025-12-01 10:12:21 | INFO     |    ⚪ No se encontraron señales válidas
+2025-12-01 10:12:21 | INFO     | 
+2025-12-01 10:12:21 | INFO     | ⏳ Esperando 60s para próximo ciclo...
+2025-12-01 10:12:28 | INFO     | 
+2025-12-01 10:12:28 | INFO     | 🔴 Bot detenido por el usuario (Ctrl+C)
+2025-12-01 10:12:28 | INFO     |    Posiciones abiertas permanecen activas en Binance

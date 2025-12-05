@@ -1,0 +1,1475 @@
+2025-12-05 02:00:15.425 | INFO     |    🔴 PnL Total: $-6.74
+2025-12-05 02:00:15.664 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 03:00:15.540 | INFO     |       🔴 APT/USDT:USDT: SHORT @ $1.9008 | PnL: $-8.71
+2025-12-05 03:00:15.541 | INFO     |    🔴 PnL Total: $-8.71
+2025-12-05 03:00:15.837 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 03:00:16.342 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 03:00:16.343 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 03:00:16.344 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 03:00:16.344 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 04:00:15.597 | INFO     |       🟢 APT/USDT:USDT: SHORT @ $1.9008 | PnL: $27.71
+2025-12-05 04:00:15.598 | INFO     |    🟢 PnL Total: $27.71
+2025-12-05 04:00:15.832 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 04:00:16.304 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 04:00:16.304 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 04:00:16.305 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 04:00:16.305 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 04:00:23.041 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 04:00:23.042 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 04:00:23.042 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 04:00:23.043 | INFO     |       SHORT: 4/6 condiciones
+2025-12-05 04:00:27.804 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 04:00:27.804 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 04:00:27.805 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 04:00:27.805 | INFO     |       SHORT: 4/6 condiciones
+2025-12-05 05:00:15.571 | INFO     |       🟢 FIL/USDT:USDT: SHORT @ $1.5330 | PnL: $0.00
+2025-12-05 05:00:15.572 | INFO     |       🟢 APT/USDT:USDT: SHORT @ $1.9008 | PnL: $60.72
+2025-12-05 05:00:15.572 | INFO     |    🟢 PnL Total: $60.72
+2025-12-05 05:00:15.911 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 05:00:16.416 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:16.417 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:16.417 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 05:00:16.418 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 05:00:17.135 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:17.136 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:17.137 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 05:00:17.137 | INFO     |       SL estimado: $2.073880
+2025-12-05 05:00:17.137 | INFO     |       TP estimado: $1.996569
+2025-12-05 05:00:17.953 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:17.954 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:17.955 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 05:00:17.955 | INFO     |       SL estimado: $0.145557
+2025-12-05 05:00:17.956 | INFO     |       TP estimado: $0.139719
+2025-12-05 05:00:18.707 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:18.707 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:18.707 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 05:00:18.707 | INFO     |       SHORT: 4/6 condiciones
+2025-12-05 05:00:20.307 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:20.308 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:20.309 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 05:00:20.309 | INFO     |       SHORT: 4/6 condiciones
+2025-12-05 05:00:21.127 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:21.128 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:21.129 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 05:00:21.129 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 05:00:21.946 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:21.947 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:21.948 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 05:00:21.948 | INFO     |       SHORT: 4/6 condiciones
+2025-12-05 05:00:22.767 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:22.767 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:22.768 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 05:00:22.769 | INFO     |       SHORT: 4/6 condiciones
+2025-12-05 05:00:24.404 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:24.405 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:24.406 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 05:00:24.406 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 05:00:25.224 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:25.224 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:25.225 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 05:00:25.226 | INFO     |       SL estimado: $82.768203
+2025-12-05 05:00:25.226 | INFO     |       TP estimado: $79.761289
+2025-12-05 05:00:26.042 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:26.042 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:26.043 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 05:00:26.043 | INFO     |       SL estimado: $5.882373
+2025-12-05 05:00:26.043 | INFO     |       TP estimado: $5.552195
+2025-12-05 05:00:27.618 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:27.619 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:27.620 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 05:00:27.620 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 05:00:29.933 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:29.934 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:29.935 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 05:00:29.935 | INFO     |       SL estimado: $0.612422
+2025-12-05 05:00:29.935 | INFO     |       TP estimado: $0.582623
+2025-12-05 05:00:30.753 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:30.754 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:30.755 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 05:00:30.755 | INFO     |       SL estimado: $1.756592
+2025-12-05 05:00:30.755 | INFO     |       TP estimado: $1.654930
+2025-12-05 05:00:31.572 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:31.573 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:31.574 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 05:00:31.574 | INFO     |       SL estimado: $1.551230
+2025-12-05 05:00:31.574 | INFO     |       TP estimado: $1.469194
+2025-12-05 05:00:32.391 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:32.391 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:32.392 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 05:00:32.393 | INFO     |       SL estimado: $1.894950
+2025-12-05 05:00:32.393 | INFO     |       TP estimado: $1.797075
+2025-12-05 05:00:33.210 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:33.210 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:33.211 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 05:00:33.212 | INFO     |       SL estimado: $0.621375
+2025-12-05 05:00:33.212 | INFO     |       TP estimado: $0.585939
+2025-12-05 05:00:33.929 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:33.930 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:33.931 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 05:00:33.931 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 05:00:35.565 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:35.566 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:35.567 | INFO     |       LONG: 3/6 condiciones
+2025-12-05 05:00:35.567 | INFO     |       SHORT: 2/6 condiciones
+2025-12-05 05:00:36.386 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:36.387 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:36.388 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 05:00:36.388 | INFO     |       SL estimado: $0.248383
+2025-12-05 05:00:36.388 | INFO     |       TP estimado: $0.231359
+2025-12-05 05:00:37.205 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:37.206 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:37.207 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 05:00:37.207 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 05:00:38.025 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:38.025 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:38.026 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 05:00:38.027 | INFO     |       SHORT: 4/6 condiciones
+2025-12-05 05:00:38.841 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:38.842 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:38.843 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 05:00:38.843 | INFO     |       SL estimado: $3.620662
+2025-12-05 05:00:38.844 | INFO     |       TP estimado: $3.415182
+2025-12-05 05:00:39.662 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 05:00:39.662 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 05:00:39.663 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 05:00:39.664 | INFO     |       SL estimado: $0.485766
+2025-12-05 05:00:39.664 | INFO     |       TP estimado: $0.462517
+2025-12-05 05:00:39.872 | INFO     |    1. ONDO/USDT SHORT | Score: 82.44
+2025-12-05 05:00:39.872 | INFO     |    2. APT/USDT SHORT | Score: 82.18
+2025-12-05 05:00:39.872 | INFO     |    3. LTC/USDT SHORT | Score: 81.22
+2025-12-05 05:00:39.873 | INFO     |    4. DOGE/USDT SHORT | Score: 80.41
+2025-12-05 05:00:39.873 | INFO     |    5. NEAR/USDT SHORT | Score: 77.60
+2025-12-05 05:00:39.873 | INFO     |    6. UNI/USDT SHORT | Score: 75.22
+2025-12-05 05:00:39.873 | INFO     |    7. XRP/USDT SHORT | Score: 74.97
+2025-12-05 05:00:39.873 | INFO     |    8. WLD/USDT SHORT | Score: 72.69
+2025-12-05 05:00:39.873 | INFO     |    9. TIA/USDT SHORT | Score: 72.34
+2025-12-05 05:00:39.874 | INFO     |    10. ICP/USDT SHORT | Score: 61.16
+2025-12-05 05:00:39.874 | INFO     |    11. FIL/USDT SHORT | Score: 56.96
+2025-12-05 05:00:39.874 | INFO     |    12. FET/USDT SHORT | Score: 53.90
+2025-12-05 05:00:39.875 | INFO     | 🎯 ABRIENDO POSICIÓN: ONDO/USDT SHORT
+2025-12-05 05:00:40.789 | ERROR    | Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 611, in fetch
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://fapi.binance.com/fapi/v1/order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/bot_ganadora_v3.py", line 990, in open_position
+    4. VOLUMEN >= 1.2x SMA20 - Sin volumen = falsos rompimientos
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                         📊 OPCIONALES (6 condiciones bonus = 100 pts max)
+    
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 6130, in create_order
+    response = self.fapiPrivatePostOrder(request)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/types.py", line 35, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11467, in request
+    response = self.fetch2(path, api, method, params, headers, body, config)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4986, in fetch2
+    raise e
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4975, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 627, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11434, in handle_errors
+    self.throw_exactly_matched_exception(self.get_exceptions_by_url(url, 'exact'), error, feedback)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 5391, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: binanceusdm {"code":-2019,"msg":"Margin is insufficient."}
+
+2025-12-05 05:00:40.789 | INFO     | 🎯 ABRIENDO POSICIÓN: APT/USDT SHORT
+2025-12-05 05:00:41.711 | ERROR    | Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 611, in fetch
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://fapi.binance.com/fapi/v1/order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/bot_ganadora_v3.py", line 990, in open_position
+    4. VOLUMEN >= 1.2x SMA20 - Sin volumen = falsos rompimientos
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                         📊 OPCIONALES (6 condiciones bonus = 100 pts max)
+    
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 6130, in create_order
+    response = self.fapiPrivatePostOrder(request)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/types.py", line 35, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11467, in request
+    response = self.fetch2(path, api, method, params, headers, body, config)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4986, in fetch2
+    raise e
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4975, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 627, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11434, in handle_errors
+    self.throw_exactly_matched_exception(self.get_exceptions_by_url(url, 'exact'), error, feedback)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 5391, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: binanceusdm {"code":-2019,"msg":"Margin is insufficient."}
+
+2025-12-05 05:00:41.711 | INFO     | 🎯 ABRIENDO POSICIÓN: LTC/USDT SHORT
+2025-12-05 05:00:42.550 | ERROR    | Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 611, in fetch
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://fapi.binance.com/fapi/v1/order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/bot_ganadora_v3.py", line 990, in open_position
+    4. VOLUMEN >= 1.2x SMA20 - Sin volumen = falsos rompimientos
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                         📊 OPCIONALES (6 condiciones bonus = 100 pts max)
+    
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 6130, in create_order
+    response = self.fapiPrivatePostOrder(request)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/types.py", line 35, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11467, in request
+    response = self.fetch2(path, api, method, params, headers, body, config)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4986, in fetch2
+    raise e
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4975, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 627, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11434, in handle_errors
+    self.throw_exactly_matched_exception(self.get_exceptions_by_url(url, 'exact'), error, feedback)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 5391, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: binanceusdm {"code":-2019,"msg":"Margin is insufficient."}
+
+2025-12-05 05:00:42.550 | INFO     | 🎯 ABRIENDO POSICIÓN: DOGE/USDT SHORT
+2025-12-05 05:00:43.451 | ERROR    | Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 611, in fetch
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://fapi.binance.com/fapi/v1/order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/bot_ganadora_v3.py", line 990, in open_position
+    4. VOLUMEN >= 1.2x SMA20 - Sin volumen = falsos rompimientos
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                         📊 OPCIONALES (6 condiciones bonus = 100 pts max)
+    
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 6130, in create_order
+    response = self.fapiPrivatePostOrder(request)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/types.py", line 35, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11467, in request
+    response = self.fetch2(path, api, method, params, headers, body, config)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4986, in fetch2
+    raise e
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4975, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 627, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11434, in handle_errors
+    self.throw_exactly_matched_exception(self.get_exceptions_by_url(url, 'exact'), error, feedback)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 5391, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: binanceusdm {"code":-2019,"msg":"Margin is insufficient."}
+
+2025-12-05 05:00:43.451 | INFO     | 🎯 ABRIENDO POSICIÓN: NEAR/USDT SHORT
+2025-12-05 05:00:44.371 | ERROR    | Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 611, in fetch
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://fapi.binance.com/fapi/v1/order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/bot_ganadora_v3.py", line 990, in open_position
+    4. VOLUMEN >= 1.2x SMA20 - Sin volumen = falsos rompimientos
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                         📊 OPCIONALES (6 condiciones bonus = 100 pts max)
+    
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 6130, in create_order
+    response = self.fapiPrivatePostOrder(request)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/types.py", line 35, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11467, in request
+    response = self.fetch2(path, api, method, params, headers, body, config)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4986, in fetch2
+    raise e
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4975, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 627, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11434, in handle_errors
+    self.throw_exactly_matched_exception(self.get_exceptions_by_url(url, 'exact'), error, feedback)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 5391, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: binanceusdm {"code":-2019,"msg":"Margin is insufficient."}
+
+2025-12-05 05:00:44.371 | INFO     | 🎯 ABRIENDO POSICIÓN: UNI/USDT SHORT
+2025-12-05 05:00:45.293 | ERROR    | Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 611, in fetch
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://fapi.binance.com/fapi/v1/order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/bot_ganadora_v3.py", line 990, in open_position
+    4. VOLUMEN >= 1.2x SMA20 - Sin volumen = falsos rompimientos
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                         📊 OPCIONALES (6 condiciones bonus = 100 pts max)
+    
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 6130, in create_order
+    response = self.fapiPrivatePostOrder(request)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/types.py", line 35, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11467, in request
+    response = self.fetch2(path, api, method, params, headers, body, config)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4986, in fetch2
+    raise e
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4975, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 627, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11434, in handle_errors
+    self.throw_exactly_matched_exception(self.get_exceptions_by_url(url, 'exact'), error, feedback)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 5391, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: binanceusdm {"code":-2019,"msg":"Margin is insufficient."}
+
+2025-12-05 05:00:45.294 | INFO     | 🎯 ABRIENDO POSICIÓN: XRP/USDT SHORT
+2025-12-05 05:00:46.136 | ERROR    | Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 611, in fetch
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://fapi.binance.com/fapi/v1/order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/bot_ganadora_v3.py", line 990, in open_position
+    4. VOLUMEN >= 1.2x SMA20 - Sin volumen = falsos rompimientos
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                         📊 OPCIONALES (6 condiciones bonus = 100 pts max)
+    
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 6130, in create_order
+    response = self.fapiPrivatePostOrder(request)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/types.py", line 35, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11467, in request
+    response = self.fetch2(path, api, method, params, headers, body, config)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4986, in fetch2
+    raise e
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4975, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 627, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11434, in handle_errors
+    self.throw_exactly_matched_exception(self.get_exceptions_by_url(url, 'exact'), error, feedback)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 5391, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: binanceusdm {"code":-2019,"msg":"Margin is insufficient."}
+
+2025-12-05 05:00:46.137 | INFO     | 🎯 ABRIENDO POSICIÓN: WLD/USDT SHORT
+2025-12-05 05:00:46.820 | ERROR    | Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 611, in fetch
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://fapi.binance.com/fapi/v1/order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/bot_ganadora_v3.py", line 990, in open_position
+    4. VOLUMEN >= 1.2x SMA20 - Sin volumen = falsos rompimientos
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                         📊 OPCIONALES (6 condiciones bonus = 100 pts max)
+    
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 6130, in create_order
+    response = self.fapiPrivatePostOrder(request)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/types.py", line 35, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11467, in request
+    response = self.fetch2(path, api, method, params, headers, body, config)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4986, in fetch2
+    raise e
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4975, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 627, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11434, in handle_errors
+    self.throw_exactly_matched_exception(self.get_exceptions_by_url(url, 'exact'), error, feedback)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 5391, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: binanceusdm {"code":-2019,"msg":"Margin is insufficient."}
+
+2025-12-05 05:00:46.821 | INFO     | 🎯 ABRIENDO POSICIÓN: TIA/USDT SHORT
+2025-12-05 05:00:47.497 | ERROR    | Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 611, in fetch
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://fapi.binance.com/fapi/v1/order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/bot_ganadora_v3.py", line 990, in open_position
+    4. VOLUMEN >= 1.2x SMA20 - Sin volumen = falsos rompimientos
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                         📊 OPCIONALES (6 condiciones bonus = 100 pts max)
+    
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 6130, in create_order
+    response = self.fapiPrivatePostOrder(request)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/types.py", line 35, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11467, in request
+    response = self.fetch2(path, api, method, params, headers, body, config)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4986, in fetch2
+    raise e
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4975, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 627, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11434, in handle_errors
+    self.throw_exactly_matched_exception(self.get_exceptions_by_url(url, 'exact'), error, feedback)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 5391, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: binanceusdm {"code":-2019,"msg":"Margin is insufficient."}
+
+2025-12-05 05:00:47.498 | INFO     | 🎯 ABRIENDO POSICIÓN: ICP/USDT SHORT
+2025-12-05 05:00:48.364 | ERROR    | Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 611, in fetch
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://fapi.binance.com/fapi/v1/order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/bot_ganadora_v3.py", line 990, in open_position
+    4. VOLUMEN >= 1.2x SMA20 - Sin volumen = falsos rompimientos
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                         📊 OPCIONALES (6 condiciones bonus = 100 pts max)
+    
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 6130, in create_order
+    response = self.fapiPrivatePostOrder(request)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/types.py", line 35, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11467, in request
+    response = self.fetch2(path, api, method, params, headers, body, config)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4986, in fetch2
+    raise e
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4975, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 627, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11434, in handle_errors
+    self.throw_exactly_matched_exception(self.get_exceptions_by_url(url, 'exact'), error, feedback)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 5391, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: binanceusdm {"code":-2019,"msg":"Margin is insufficient."}
+
+2025-12-05 05:00:48.365 | INFO     | 🎯 ABRIENDO POSICIÓN: FIL/USDT SHORT
+2025-12-05 05:00:49.081 | ERROR    | Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 611, in fetch
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://fapi.binance.com/fapi/v1/order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/bot_ganadora_v3.py", line 990, in open_position
+    4. VOLUMEN >= 1.2x SMA20 - Sin volumen = falsos rompimientos
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                         📊 OPCIONALES (6 condiciones bonus = 100 pts max)
+    
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 6130, in create_order
+    response = self.fapiPrivatePostOrder(request)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/types.py", line 35, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11467, in request
+    response = self.fetch2(path, api, method, params, headers, body, config)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4986, in fetch2
+    raise e
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4975, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 627, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11434, in handle_errors
+    self.throw_exactly_matched_exception(self.get_exceptions_by_url(url, 'exact'), error, feedback)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 5391, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: binanceusdm {"code":-2019,"msg":"Margin is insufficient."}
+
+2025-12-05 05:00:49.082 | INFO     | 🎯 ABRIENDO POSICIÓN: FET/USDT SHORT
+2025-12-05 05:00:49.798 | ERROR    | Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 611, in fetch
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://fapi.binance.com/fapi/v1/order
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/laurazapata/Desktop/DICIEMBRE/bot_ganadora_v3.py", line 990, in open_position
+    4. VOLUMEN >= 1.2x SMA20 - Sin volumen = falsos rompimientos
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                         📊 OPCIONALES (6 condiciones bonus = 100 pts max)
+    
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 6130, in create_order
+    response = self.fapiPrivatePostOrder(request)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/types.py", line 35, in unbound_method
+    return _self.request(self.path, self.api, self.method, params, config=self.config)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11467, in request
+    response = self.fetch2(path, api, method, params, headers, body, config)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4986, in fetch2
+    raise e
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 4975, in fetch2
+    return self.fetch(request['url'], request['method'], request['headers'], request['body'])
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 627, in fetch
+    skip_further_error_handling = self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/binance.py", line 11434, in handle_errors
+    self.throw_exactly_matched_exception(self.get_exceptions_by_url(url, 'exact'), error, feedback)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/laurazapata/Desktop/DICIEMBRE/.venv/lib/python3.13/site-packages/ccxt/base/exchange.py", line 5391, in throw_exactly_matched_exception
+    raise exact[string](message)
+ccxt.base.errors.InsufficientFunds: binanceusdm {"code":-2019,"msg":"Margin is insufficient."}
+
+2025-12-05 06:00:15.553 | INFO     |       🔴 FIL/USDT:USDT: SHORT @ $1.5330 | PnL: $-3.91
+2025-12-05 06:00:15.554 | INFO     |       🟢 APT/USDT:USDT: SHORT @ $1.9008 | PnL: $59.64
+2025-12-05 06:00:15.555 | INFO     |    🟢 PnL Total: $55.73
+2025-12-05 06:00:15.793 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 06:00:16.301 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 06:00:16.301 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 06:00:16.302 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 06:00:16.302 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 06:00:24.895 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 06:00:24.895 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 06:00:24.896 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 06:00:24.896 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 06:00:31.940 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 06:00:31.940 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 06:00:31.941 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 06:00:31.941 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 07:00:15.521 | INFO     |       🟢 FIL/USDT:USDT: SHORT @ $1.5330 | PnL: $5.74
+2025-12-05 07:00:15.522 | INFO     |       🟢 APT/USDT:USDT: SHORT @ $1.9008 | PnL: $118.37
+2025-12-05 07:00:15.522 | INFO     |    🟢 PnL Total: $124.11
+2025-12-05 07:00:15.762 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 07:00:17.874 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 07:00:17.875 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 07:00:17.876 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 07:00:17.876 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 07:00:28.216 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 07:00:28.217 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 07:00:28.218 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 07:00:28.218 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 07:00:29.853 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 07:00:29.854 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 07:00:29.855 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 07:00:29.855 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 07:00:31.595 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 07:00:31.596 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 07:00:31.597 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 07:00:31.597 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 07:00:32.413 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 07:00:32.414 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 07:00:32.415 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 07:00:32.415 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 07:00:36.304 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 07:00:36.305 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 07:00:36.306 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 07:00:36.306 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 07:00:38.762 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 07:00:38.763 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 07:00:38.764 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 07:00:38.764 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 08:00:16.147 | INFO     |       🟢 FIL/USDT:USDT: SHORT @ $1.5330 | PnL: $3.33
+2025-12-05 08:00:16.149 | INFO     |    🟢 PnL Total: $3.33
+2025-12-05 08:00:16.507 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 08:00:25.002 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 08:00:25.003 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 08:00:25.004 | INFO     |       LONG: 4/6 condiciones
+2025-12-05 08:00:25.004 | INFO     |       SHORT: 2/6 condiciones
+2025-12-05 09:00:16.619 | INFO     |       🟢 FIL/USDT:USDT: SHORT @ $1.5330 | PnL: $14.83
+2025-12-05 09:00:16.620 | INFO     |    🟢 PnL Total: $14.83
+2025-12-05 09:00:16.950 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:00:17.429 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:17.430 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:17.431 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 09:00:17.431 | INFO     |       SL estimado: $137.331010
+2025-12-05 09:00:17.431 | INFO     |       TP estimado: $130.891465
+2025-12-05 09:00:18.846 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:18.847 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:18.848 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:18.848 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:19.627 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:19.628 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:19.629 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 09:00:19.629 | INFO     |       SHORT: 4/6 condiciones
+2025-12-05 09:00:20.446 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:20.447 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:20.448 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:20.448 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:21.267 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:21.268 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:21.270 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:21.270 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:22.087 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:22.088 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:22.089 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:22.089 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:22.778 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:22.779 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:22.779 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 09:00:22.779 | INFO     |       SHORT: 4/6 condiciones
+2025-12-05 09:00:23.551 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:23.552 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:23.553 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 09:00:23.553 | INFO     |       SHORT: 4/6 condiciones
+2025-12-05 09:00:25.029 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:25.030 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:25.031 | INFO     |       LONG: 2/6 condiciones
+2025-12-05 09:00:25.031 | INFO     |       SHORT: 3/6 condiciones
+2025-12-05 09:00:26.528 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:26.528 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:26.529 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:26.529 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:27.881 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:27.882 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:27.883 | INFO     |       LONG: 1/6 condiciones
+2025-12-05 09:00:27.883 | INFO     |       SHORT: 4/6 condiciones
+2025-12-05 09:00:28.641 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:28.642 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:28.643 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:28.643 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:29.460 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:29.461 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:29.462 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:29.462 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:30.282 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:30.283 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:30.284 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:30.284 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:30.996 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:30.997 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:30.997 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:30.997 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:31.817 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:31.817 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:31.818 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:31.818 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:33.355 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:33.355 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:33.356 | INFO     |    🔴 ¡SEÑAL SHORT VÁLIDA!
+2025-12-05 09:00:33.357 | INFO     |       SL estimado: $0.612955
+2025-12-05 09:00:33.357 | INFO     |       TP estimado: $0.574457
+2025-12-05 09:00:34.112 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:34.113 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:34.114 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:34.114 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:35.502 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:35.503 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:35.504 | INFO     |       LONG: 3/6 condiciones
+2025-12-05 09:00:35.504 | INFO     |       SHORT: 2/6 condiciones
+2025-12-05 09:00:36.220 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:36.221 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:36.222 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:36.222 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:37.040 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:37.041 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:37.042 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:37.042 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:37.859 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:37.859 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:37.861 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:37.861 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:38.611 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:38.611 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:38.612 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:38.612 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:39.373 | INFO     |    📈 EVALUANDO CONDICIONES LONG:
+2025-12-05 09:00:39.373 | INFO     |    📉 EVALUANDO CONDICIONES SHORT:
+2025-12-05 09:00:39.373 | INFO     |       LONG: 0/6 condiciones
+2025-12-05 09:00:39.373 | INFO     |       SHORT: 5/6 condiciones
+2025-12-05 09:00:39.577 | INFO     |    1. TIA/USDT SHORT | Score: 68.17
+2025-12-05 09:00:39.577 | INFO     |    2. SOL/USDT SHORT | Score: 65.99
+2025-12-05 09:00:39.578 | INFO     | 🎯 ABRIENDO POSICIÓN: TIA/USDT SHORT
+2025-12-05 09:00:40.887 | INFO     |    🎉 POSICIÓN ABIERTA EXITOSAMENTE
+2025-12-05 09:00:41.893 | INFO     | 🎯 ABRIENDO POSICIÓN: SOL/USDT SHORT
+2025-12-05 09:00:43.100 | INFO     |    🎉 POSICIÓN ABIERTA EXITOSAMENTE
+2025-12-05 09:33:14.064 | INFO     |    💰 Balance USDT disponible: $517.85
+2025-12-05 09:33:14.293 | INFO     |    RSI: 14 | LONG > 55 | SHORT < 70
+2025-12-05 09:33:15.332 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:33:15.816 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:33:15.818 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:33:15.818 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:33:15.819 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:33:15.819 | INFO     |       LONG: 6 fallos
+2025-12-05 09:33:15.819 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:33:16.519 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:33:16.519 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:33:16.520 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:33:16.520 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:33:16.520 | INFO     |       LONG: 6 fallos
+2025-12-05 09:33:16.520 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:33:17.293 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:33:17.295 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:33:17.295 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:33:17.296 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:33:17.296 | INFO     |       LONG: 6 fallos
+2025-12-05 09:33:17.297 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:33:18.010 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:33:18.012 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:33:18.012 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:33:18.013 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:33:18.014 | INFO     |       LONG: 5 fallos
+2025-12-05 09:33:18.014 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:33:18.727 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:33:18.728 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:33:18.728 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:33:18.729 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:33:18.730 | INFO     |       LONG: 6 fallos
+2025-12-05 09:33:18.730 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:33:49.959 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:33:50.576 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:33:50.577 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:33:50.578 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:33:50.579 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:33:50.579 | INFO     |       LONG: 6 fallos
+2025-12-05 09:33:50.579 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:33:51.332 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:33:51.334 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:33:51.334 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:33:51.335 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:33:51.335 | INFO     |       LONG: 6 fallos
+2025-12-05 09:33:51.335 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:33:52.111 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:33:52.112 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:33:52.113 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:33:52.114 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:33:52.115 | INFO     |       LONG: 6 fallos
+2025-12-05 09:33:52.115 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:33:52.799 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:33:52.800 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:33:52.801 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:33:52.802 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:33:52.802 | INFO     |       LONG: 5 fallos
+2025-12-05 09:33:52.803 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:33:53.484 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:33:53.485 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:33:53.486 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:33:53.486 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:33:53.487 | INFO     |       LONG: 6 fallos
+2025-12-05 09:33:53.487 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:34:24.671 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:34:25.143 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:34:25.144 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:34:25.145 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:34:25.145 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:34:25.146 | INFO     |       LONG: 6 fallos
+2025-12-05 09:34:25.146 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:34:25.822 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:34:25.823 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:34:25.823 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:34:25.824 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:34:25.824 | INFO     |       LONG: 6 fallos
+2025-12-05 09:34:25.825 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:34:26.522 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:34:26.523 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:34:26.523 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:34:26.524 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:34:26.526 | INFO     |       LONG: 6 fallos
+2025-12-05 09:34:26.526 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:34:27.204 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:34:27.205 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:34:27.206 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:34:27.207 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:34:27.207 | INFO     |       LONG: 5 fallos
+2025-12-05 09:34:27.207 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:34:27.902 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:34:27.903 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:34:27.904 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:34:27.905 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:34:27.905 | INFO     |       LONG: 6 fallos
+2025-12-05 09:34:27.905 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:34:59.051 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:34:59.526 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:34:59.527 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:34:59.527 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:34:59.528 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:34:59.529 | INFO     |       LONG: 6 fallos
+2025-12-05 09:34:59.529 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:35:00.210 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:35:00.211 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:35:00.211 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:35:00.212 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:35:00.213 | INFO     |       LONG: 6 fallos
+2025-12-05 09:35:00.213 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:35:00.970 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:35:00.971 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:35:00.971 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:35:00.972 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:35:00.972 | INFO     |       LONG: 6 fallos
+2025-12-05 09:35:00.973 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:35:03.217 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:35:03.218 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:35:03.218 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:35:03.219 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:35:03.220 | INFO     |       LONG: 5 fallos
+2025-12-05 09:35:03.220 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:35:04.386 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:35:04.386 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:35:04.386 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:35:04.387 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:35:04.388 | INFO     |       LONG: 6 fallos
+2025-12-05 09:35:04.388 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:35:35.566 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:35:36.147 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:35:36.148 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:35:36.149 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:35:36.150 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:35:36.150 | INFO     |       LONG: 6 fallos
+2025-12-05 09:35:36.150 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:35:37.071 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:35:37.072 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:35:37.073 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:35:37.073 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:35:37.074 | INFO     |       LONG: 6 fallos
+2025-12-05 09:35:37.074 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:35:37.889 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:35:37.890 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:35:37.890 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:35:37.891 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:35:37.891 | INFO     |       LONG: 6 fallos
+2025-12-05 09:35:37.892 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:35:38.708 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:35:38.709 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:35:38.709 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:35:38.710 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:35:38.711 | INFO     |       LONG: 5 fallos
+2025-12-05 09:35:38.711 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:35:39.387 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:35:39.388 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:35:39.388 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:35:39.389 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:35:39.389 | INFO     |       LONG: 6 fallos
+2025-12-05 09:35:39.389 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:36:10.613 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:36:11.102 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:36:11.103 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:36:11.104 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:36:11.106 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:36:11.107 | INFO     |       LONG: 6 fallos
+2025-12-05 09:36:11.107 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:36:11.787 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:36:11.789 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:36:11.791 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:36:11.792 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:36:11.793 | INFO     |       LONG: 6 fallos
+2025-12-05 09:36:11.793 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:36:12.549 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:36:12.550 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:36:12.551 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:36:12.551 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:36:12.552 | INFO     |       LONG: 6 fallos
+2025-12-05 09:36:12.552 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:36:13.289 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:36:13.290 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:36:13.291 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:36:13.292 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:36:13.293 | INFO     |       LONG: 5 fallos
+2025-12-05 09:36:13.293 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:36:13.983 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:36:13.984 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:36:13.984 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:36:13.984 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:36:13.985 | INFO     |       LONG: 6 fallos
+2025-12-05 09:36:13.985 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:36:45.267 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:36:45.737 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:36:45.738 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:36:45.738 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:36:45.739 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:36:45.739 | INFO     |       LONG: 6 fallos
+2025-12-05 09:36:45.739 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:36:46.498 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:36:46.500 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:36:46.501 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:36:46.502 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:36:46.502 | INFO     |       LONG: 6 fallos
+2025-12-05 09:36:46.502 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:36:47.260 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:36:47.261 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:36:47.262 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:36:47.263 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:36:47.263 | INFO     |       LONG: 6 fallos
+2025-12-05 09:36:47.264 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:36:48.035 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:36:48.036 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:36:48.036 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:36:48.037 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:36:48.038 | INFO     |       LONG: 5 fallos
+2025-12-05 09:36:48.038 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:36:48.753 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:36:48.754 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:36:48.755 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:36:48.756 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:36:48.756 | INFO     |       LONG: 6 fallos
+2025-12-05 09:36:48.757 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:37:20.086 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:37:20.553 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:37:20.555 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:37:20.556 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:37:20.557 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:37:20.558 | INFO     |       LONG: 6 fallos
+2025-12-05 09:37:20.558 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:37:21.316 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:37:21.317 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:37:21.318 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:37:21.319 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:37:21.319 | INFO     |       LONG: 6 fallos
+2025-12-05 09:37:21.319 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:37:22.031 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:37:22.033 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:37:22.034 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:37:22.034 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:37:22.035 | INFO     |       LONG: 6 fallos
+2025-12-05 09:37:22.035 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:37:22.790 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:37:22.791 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:37:22.792 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:37:22.792 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:37:22.793 | INFO     |       LONG: 5 fallos
+2025-12-05 09:37:22.793 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:37:23.570 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:37:23.571 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:37:23.572 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:37:23.573 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:37:23.573 | INFO     |       LONG: 6 fallos
+2025-12-05 09:37:23.573 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:37:54.741 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:37:55.312 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:37:55.313 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:37:55.314 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:37:55.315 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:37:55.315 | INFO     |       LONG: 6 fallos
+2025-12-05 09:37:55.315 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:37:56.028 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:37:56.029 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:37:56.030 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:37:56.031 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:37:56.032 | INFO     |       LONG: 6 fallos
+2025-12-05 09:37:56.032 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:37:56.719 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:37:56.720 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:37:56.722 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:37:56.724 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:37:56.725 | INFO     |       LONG: 6 fallos
+2025-12-05 09:37:56.725 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:37:57.563 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:37:57.564 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:37:57.565 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:37:57.566 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:37:57.567 | INFO     |       LONG: 5 fallos
+2025-12-05 09:37:57.567 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:37:58.259 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:37:58.260 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:37:58.261 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:37:58.262 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:37:58.262 | INFO     |       LONG: 6 fallos
+2025-12-05 09:37:58.263 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:38:29.515 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:38:30.024 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:38:30.025 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:38:30.026 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:38:30.026 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:38:30.027 | INFO     |       LONG: 6 fallos
+2025-12-05 09:38:30.027 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:38:30.706 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:38:30.707 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:38:30.708 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:38:30.708 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:38:30.708 | INFO     |       LONG: 6 fallos
+2025-12-05 09:38:30.709 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:38:31.384 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:38:31.385 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:38:31.385 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:38:31.386 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:38:31.386 | INFO     |       LONG: 6 fallos
+2025-12-05 09:38:31.386 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:38:32.064 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:38:32.065 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:38:32.066 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:38:32.067 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:38:32.067 | INFO     |       LONG: 5 fallos
+2025-12-05 09:38:32.067 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:38:32.789 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:38:32.790 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:38:32.790 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:38:32.791 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:38:32.792 | INFO     |       LONG: 6 fallos
+2025-12-05 09:38:32.792 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:39:04.123 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:39:04.739 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:39:04.741 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:39:04.741 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:39:04.742 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:39:04.743 | INFO     |       LONG: 6 fallos
+2025-12-05 09:39:04.743 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:39:05.559 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:39:05.561 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:39:05.561 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:39:05.562 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:39:05.563 | INFO     |       LONG: 6 fallos
+2025-12-05 09:39:05.563 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:39:06.378 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:39:06.379 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:39:06.380 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:39:06.381 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:39:06.381 | INFO     |       LONG: 6 fallos
+2025-12-05 09:39:06.381 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:39:07.300 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:39:07.301 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:39:07.302 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:39:07.302 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:39:07.303 | INFO     |       LONG: 5 fallos
+2025-12-05 09:39:07.303 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:39:08.065 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:39:08.067 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:39:08.067 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:39:08.068 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:39:08.069 | INFO     |       LONG: 6 fallos
+2025-12-05 09:39:08.069 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:39:39.295 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:39:39.789 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:39:39.791 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:39:39.792 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:39:39.793 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:39:39.794 | INFO     |       LONG: 6 fallos
+2025-12-05 09:39:39.794 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:39:40.469 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:39:40.471 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:39:40.471 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:39:40.472 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:39:40.472 | INFO     |       LONG: 6 fallos
+2025-12-05 09:39:40.473 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:39:41.298 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:39:41.299 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:39:41.299 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:39:41.300 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:39:41.301 | INFO     |       LONG: 6 fallos
+2025-12-05 09:39:41.301 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:39:42.011 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:39:42.012 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:39:42.013 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:39:42.013 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:39:42.014 | INFO     |       LONG: 5 fallos
+2025-12-05 09:39:42.014 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:39:42.702 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:39:42.704 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:39:42.705 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:39:42.705 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:39:42.706 | INFO     |       LONG: 6 fallos
+2025-12-05 09:39:42.706 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:40:14.088 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:40:14.680 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:40:14.681 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:40:14.682 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:40:14.683 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:40:14.683 | INFO     |       LONG: 6 fallos
+2025-12-05 09:40:14.683 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:40:15.433 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:40:15.434 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:40:15.434 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:40:15.435 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:40:15.435 | INFO     |       LONG: 6 fallos
+2025-12-05 09:40:15.436 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:40:16.214 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:40:16.215 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:40:16.216 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:40:16.216 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:40:16.217 | INFO     |       LONG: 6 fallos
+2025-12-05 09:40:16.217 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:40:16.919 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:40:16.920 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:40:16.920 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:40:16.921 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:40:16.921 | INFO     |       LONG: 5 fallos
+2025-12-05 09:40:16.921 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:40:17.702 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:40:17.703 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:40:17.704 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:40:17.704 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:40:17.705 | INFO     |       LONG: 6 fallos
+2025-12-05 09:40:17.705 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:40:48.982 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:40:49.446 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:40:49.446 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:40:49.447 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:40:49.447 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:40:49.448 | INFO     |       LONG: 6 fallos
+2025-12-05 09:40:49.448 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:40:50.150 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:40:50.152 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:40:50.152 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:40:50.153 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:40:50.154 | INFO     |       LONG: 6 fallos
+2025-12-05 09:40:50.154 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:40:50.928 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:40:50.928 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:40:50.928 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:40:50.929 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:40:50.929 | INFO     |       LONG: 6 fallos
+2025-12-05 09:40:50.929 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:40:51.748 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:40:51.749 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:40:51.750 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:40:51.751 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:40:51.751 | INFO     |       LONG: 5 fallos
+2025-12-05 09:40:51.751 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:40:52.473 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:40:52.474 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:40:52.475 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:40:52.475 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:40:52.476 | INFO     |       LONG: 6 fallos
+2025-12-05 09:40:52.476 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:41:23.797 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:41:24.310 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:41:24.311 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:41:24.312 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:41:24.313 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:41:24.313 | INFO     |       LONG: 6 fallos
+2025-12-05 09:41:24.313 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:41:25.027 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:41:25.028 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:41:25.029 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:41:25.029 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:41:25.030 | INFO     |       LONG: 6 fallos
+2025-12-05 09:41:25.030 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:41:25.847 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:41:25.848 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:41:25.849 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:41:25.849 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:41:25.850 | INFO     |       LONG: 6 fallos
+2025-12-05 09:41:25.850 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:41:26.665 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:41:26.666 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:41:26.667 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:41:26.668 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:41:26.668 | INFO     |       LONG: 5 fallos
+2025-12-05 09:41:26.669 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:41:27.485 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:41:27.486 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:41:27.486 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:41:27.487 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:41:27.488 | INFO     |       LONG: 6 fallos
+2025-12-05 09:41:27.488 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:41:58.919 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:41:59.434 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:41:59.436 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:41:59.436 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:41:59.437 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:41:59.438 | INFO     |       LONG: 6 fallos
+2025-12-05 09:41:59.438 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:42:00.191 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:42:00.192 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:42:00.193 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:42:00.194 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:42:00.194 | INFO     |       LONG: 6 fallos
+2025-12-05 09:42:00.194 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:42:00.885 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:42:00.886 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:42:00.887 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:42:00.888 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:42:00.888 | INFO     |       LONG: 6 fallos
+2025-12-05 09:42:00.888 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:42:01.574 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:42:01.576 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:42:01.576 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:42:01.577 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:42:01.577 | INFO     |       LONG: 5 fallos
+2025-12-05 09:42:01.577 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:42:02.258 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:42:02.259 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:42:02.260 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:42:02.260 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:42:02.261 | INFO     |       LONG: 6 fallos
+2025-12-05 09:42:02.261 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:42:33.410 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:42:34.045 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:42:34.046 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:42:34.047 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:42:34.048 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:42:34.048 | INFO     |       LONG: 6 fallos
+2025-12-05 09:42:34.048 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:42:34.763 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:42:34.764 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:42:34.764 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:42:34.765 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:42:34.765 | INFO     |       LONG: 6 fallos
+2025-12-05 09:42:34.766 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:42:35.687 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:42:35.688 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:42:35.688 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:42:35.689 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:42:35.690 | INFO     |       LONG: 6 fallos
+2025-12-05 09:42:35.690 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:42:36.503 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:42:36.504 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:42:36.505 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:42:36.505 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:42:36.506 | INFO     |       LONG: 5 fallos
+2025-12-05 09:42:36.506 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:42:37.325 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:42:37.326 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:42:37.326 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:42:37.327 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:42:37.328 | INFO     |       LONG: 6 fallos
+2025-12-05 09:42:37.328 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:43:08.483 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:43:08.966 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:43:08.967 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:43:08.968 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:43:08.968 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:43:08.968 | INFO     |       LONG: 6 fallos
+2025-12-05 09:43:08.969 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:43:09.721 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:43:09.722 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:43:09.722 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:43:09.723 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:43:09.723 | INFO     |       LONG: 6 fallos
+2025-12-05 09:43:09.724 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:43:10.418 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:43:10.419 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:43:10.419 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:43:10.420 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:43:10.421 | INFO     |       LONG: 6 fallos
+2025-12-05 09:43:10.421 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:43:11.111 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:43:11.112 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:43:11.112 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:43:11.113 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:43:11.113 | INFO     |       LONG: 5 fallos
+2025-12-05 09:43:11.113 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:43:11.831 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:43:11.832 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:43:11.832 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:43:11.833 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:43:11.833 | INFO     |       LONG: 6 fallos
+2025-12-05 09:43:11.834 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:43:42.990 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:43:43.583 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:43:43.584 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:43:43.586 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:43:43.587 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:43:43.588 | INFO     |       LONG: 6 fallos
+2025-12-05 09:43:43.588 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:43:44.335 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:43:44.336 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:43:44.337 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:43:44.338 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:43:44.338 | INFO     |       LONG: 6 fallos
+2025-12-05 09:43:44.338 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:43:45.051 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:43:45.052 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:43:45.053 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:43:45.054 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:43:45.055 | INFO     |       LONG: 6 fallos
+2025-12-05 09:43:45.055 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:43:45.737 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:43:45.738 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:43:45.739 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:43:45.740 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:43:45.740 | INFO     |       LONG: 5 fallos
+2025-12-05 09:43:45.741 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:43:46.414 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:43:46.416 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:43:46.416 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:43:46.417 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:43:46.417 | INFO     |       LONG: 6 fallos
+2025-12-05 09:43:46.418 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:44:17.776 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:44:18.293 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:44:18.294 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:44:18.295 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:44:18.296 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:44:18.296 | INFO     |       LONG: 6 fallos
+2025-12-05 09:44:18.296 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:44:18.995 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:44:18.996 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:44:18.997 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:44:18.997 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:44:18.998 | INFO     |       LONG: 6 fallos
+2025-12-05 09:44:18.998 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:44:19.722 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:44:19.723 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:44:19.724 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:44:19.725 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:44:19.725 | INFO     |       LONG: 6 fallos
+2025-12-05 09:44:19.725 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:44:20.479 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:44:20.480 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:44:20.480 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:44:20.481 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:44:20.482 | INFO     |       LONG: 5 fallos
+2025-12-05 09:44:20.482 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:44:21.259 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:44:21.261 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:44:21.261 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:44:21.262 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:44:21.262 | INFO     |       LONG: 6 fallos
+2025-12-05 09:44:21.262 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:44:52.604 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:44:53.072 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:44:53.074 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:44:53.074 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:44:53.075 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:44:53.075 | INFO     |       LONG: 6 fallos
+2025-12-05 09:44:53.075 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:44:53.770 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:44:53.771 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:44:53.771 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:44:53.772 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:44:53.773 | INFO     |       LONG: 6 fallos
+2025-12-05 09:44:53.773 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:44:54.470 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:44:54.471 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:44:54.472 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:44:54.472 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:44:54.473 | INFO     |       LONG: 6 fallos
+2025-12-05 09:44:54.473 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:44:55.257 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:44:55.258 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:44:55.259 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:44:55.259 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:44:55.260 | INFO     |       LONG: 5 fallos
+2025-12-05 09:44:55.260 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:44:55.941 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:44:55.942 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:44:55.943 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:44:55.944 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:44:55.944 | INFO     |       LONG: 6 fallos
+2025-12-05 09:44:55.944 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:45:27.188 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:45:27.755 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:45:27.756 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:45:27.757 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:45:27.758 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:45:27.759 | INFO     |       LONG: 6 fallos
+2025-12-05 09:45:27.759 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:45:28.537 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:45:28.538 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:45:28.539 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:45:28.540 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:45:28.540 | INFO     |       LONG: 6 fallos
+2025-12-05 09:45:28.540 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:45:29.223 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:45:29.224 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:45:29.225 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:45:29.225 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:45:29.226 | INFO     |       LONG: 6 fallos
+2025-12-05 09:45:29.226 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:45:30.072 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:45:30.074 | INFO     |    ❌ LONG: 5 condición(es) fallida(s):
+2025-12-05 09:45:30.074 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:45:30.075 | INFO     |    ❌ SHORT: 2 condición(es) fallida(s):
+2025-12-05 09:45:30.076 | INFO     |       LONG: 5 fallos
+2025-12-05 09:45:30.076 | INFO     |       SHORT: 2 fallos
+2025-12-05 09:45:30.828 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:45:30.829 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:45:30.829 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:45:30.830 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:45:30.831 | INFO     |       LONG: 6 fallos
+2025-12-05 09:45:30.831 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:46:01.998 | INFO     | 🔍 ESCANEANDO SEÑALES EN TODOS LOS SÍMBOLOS
+2025-12-05 09:46:02.637 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:46:02.638 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:46:02.639 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:46:02.640 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:46:02.640 | INFO     |       LONG: 6 fallos
+2025-12-05 09:46:02.640 | INFO     |       SHORT: 1 fallos
+2025-12-05 09:46:03.333 | INFO     |    📈 EVALUACIÓN LONG (11 condiciones MANDATORIAS):
+2025-12-05 09:46:03.334 | INFO     |    ❌ LONG: 6 condición(es) fallida(s):
+2025-12-05 09:46:03.334 | INFO     |    📉 EVALUACIÓN SHORT (11 condiciones MANDATORIAS):
+2025-12-05 09:46:03.335 | INFO     |    ❌ SHORT: 1 condición(es) fallida(s):
+2025-12-05 09:46:03.336 | INFO     |       LONG: 6 fallos
+2025-12-05 09:46:03.336 | INFO     |       SHORT: 1 fallos
