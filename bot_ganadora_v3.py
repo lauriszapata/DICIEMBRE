@@ -120,7 +120,7 @@ CONFIG = {
     'BLOCKED_HOURS_UTC': [1, 12, 23],  # Horas a evitar (peores del backtest)
     
     # === GESTIÓN DE RIESGO (FASE 1) ===
-    'MAX_DAILY_LOSS_PCT': 0.05,     # Límite de pérdida diaria (5%)
+    'MAX_DAILY_LOSS_PCT': 0.03,     # Límite de pérdida diaria (3% - óptimo según backtest)
     'MAX_CONSECUTIVE_LOSSES': 3,    # Pausa tras 3 pérdidas seguidas
     'PAUSE_HOURS_AFTER_STREAK': 24, # Horas de pausa tras racha
     
@@ -155,7 +155,8 @@ class RiskManager:
         self.total_pnl = 0  # PnL total desde inicio del challenge
         self.last_trades = []
         self.day_start = datetime.now().date()
-        self.pause_until = None
+        self.pause_until = None           # Pausa por pérdidas consecutivas
+        self.daily_pause_until = None     # Pausa por límite de pérdida diaria (24h)
         self.challenge_failed = False  # Si ya perdimos el challenge
         self.challenge_passed = False  # Si ya ganamos el challenge
         
@@ -255,25 +256,41 @@ class RiskManager:
             logger.info("🏆 CHALLENGE COMPLETADO - Puedes pasar a la siguiente fase")
             return False
         
-        # 1. Verificar pausa por racha
+        # 1. Verificar pausa por racha de pérdidas consecutivas
         if self.pause_until:
             if datetime.now() < self.pause_until:
                 remaining = int((self.pause_until - datetime.now()).total_seconds() / 60)
                 logger.info(f"⏳ Trading pausado por racha de pérdidas ({remaining} min restantes)")
                 return False
             else:
+                logger.info("✅ Pausa por racha de pérdidas terminada. Trading reactivado.")
                 self.pause_until = None
-                self.last_trades = []
+                self.last_trades = []  # Reset racha
+        
+        # 2. Verificar pausa por límite de pérdida diaria (24 horas)
+        if self.daily_pause_until:
+            if datetime.now() < self.daily_pause_until:
+                remaining = int((self.daily_pause_until - datetime.now()).total_seconds() / 60)
+                remaining_hours = remaining // 60
+                remaining_mins = remaining % 60
+                logger.info(f"⏳ Trading pausado por límite diario (3%) - {remaining_hours}h {remaining_mins}m restantes")
+                return False
+            else:
+                logger.info("✅ Pausa por límite diario terminada (24h). Trading reactivado.")
+                self.daily_pause_until = None
         
         current_balance = self._update_balance()
         
-        # 2. Límite diario (5%)
-        max_daily_loss = current_balance * CONFIG['MAX_DAILY_LOSS_PCT']
+        # 3. Verificar límite diario (3%) - Si se supera, pausar 24 horas
+        trade_exposure = CONFIG['MARGIN_USD'] * CONFIG['LEVERAGE']
+        max_daily_loss = trade_exposure * CONFIG['MAX_DAILY_LOSS_PCT']
         if self.daily_pnl < -max_daily_loss:
-            logger.warning(f"⛔ Límite de pérdida DIARIA alcanzado (${self.daily_pnl:.2f} < -${max_daily_loss:.2f})")
+            self.daily_pause_until = datetime.now() + timedelta(hours=24)
+            logger.warning(f"⛔ Límite de pérdida DIARIA (3%) alcanzado (${self.daily_pnl:.2f} < -${max_daily_loss:.2f})")
+            logger.warning(f"⏳ Trading pausado hasta: {self.daily_pause_until.strftime('%Y-%m-%d %H:%M:%S')}")
             return False
         
-        # 3. Límite TOTAL (10%) - Solo en modo prop
+        # 4. Límite TOTAL (10%) - Solo en modo prop
         if CONFIG.get('PROP_MODE', False):
             capital = CONFIG.get('CHALLENGE_CAPITAL', 25000)
             max_overall_loss = capital * CONFIG.get('MAX_OVERALL_LOSS_PCT', 0.10)
@@ -914,9 +931,9 @@ def calculate_indicators(df: pd.DataFrame) -> pd.DataFrame:
     df['macd_signal'] = df['macd_line'].ewm(span=CONFIG['MACD_SIGNAL'], adjust=False).mean()
     df['macd_hist'] = df['macd_line'] - df['macd_signal']
     
-    # --- ATR (período 14) ---
+    # --- ATR (período 14) --- IGUAL QUE BACKTEST (rolling, no ewm)
     logger.debug(f"   ATR (período {CONFIG['ATR_PERIOD']})...")
-    df['atr'] = tr.ewm(span=CONFIG['ATR_PERIOD'], adjust=False).mean()
+    df['atr'] = tr.rolling(window=CONFIG['ATR_PERIOD']).mean()
     
     # --- Volume SMA (período 20) ---
     logger.debug(f"   Volume SMA (período {CONFIG['VOLUME_SMA_PERIOD']})...")
