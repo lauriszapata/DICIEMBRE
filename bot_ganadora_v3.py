@@ -43,11 +43,11 @@ API_SECRET = "wiy9JdBSKqCDja0pFXdvSxvJ2VsApzyQmCPDolLR9Dkk2M9LitkDWBh8Hh3fWfHR"
 # ⚙️ CONFIGURACIÓN SEGÚN ARCHIVO GANADOR
 # =============================================================================
 CONFIG = {
-    # === CAPITAL - CONFIGURACIÓN MÁS AGRESIVA 1 PHASE ===
-    # Objetivo: Pasar 1 PHASE ($5,000) en 5 días
-    # Exposure: $220 × 20x = $4,400
-    'MARGIN_USD': 220,              # $220 margen (MÁS AGRESIVO)
-    'LEVERAGE': 20,                 # 20x leverage MÁXIMO
+    # === CAPITAL - CONFIGURACIÓN INSTANT $5,000 ===
+    # Fondeo inmediato, sin fases, profit split 50%
+    # Exposure: $110 × 20x = $2,200
+    'MARGIN_USD': 110,              # $110 margen (SEGURO para INSTANT)
+    'LEVERAGE': 20,                 # 20x leverage
     'MAX_OPEN_POSITIONS': 1,        # 1 posición para control de riesgo
     
     # === TIMEFRAME ===
